@@ -1,0 +1,1513 @@
+;Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU
+0;Apartamento;Ipanema;3;2;1;150;8000.0;2400.0;0.0
+1;Apartamento;Jardim Botânico;3;2;3;250;8000.0;2350.0;850.0
+2;Apartamento;Lagoa;4;3;1;165;8000.0;1810.0;520.0
+3;Apartamento;Barra da Tijuca;3;2;1;130;8000.0;2600.0;700.0
+4;Apartamento;Barra da Tijuca;4;3;2;460;8000.0;2500.0;1600.0
+5;Apartamento;Barra da Tijuca;4;3;4;260;8000.0;2600.0;798.0
+6;Apartamento;Ipanema;3;1;1;130;8000.0;1375.0;500.0
+7;Apartamento;Leblon;3;2;1;160;8000.0;1483.0;537.0
+8;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;2200.0;660.0
+9;Apartamento;Botafogo;3;2;1;240;8000.0;2300.0;495.0
+10;Apartamento;Barra da Tijuca;5;2;5;330;8000.0;2000.0;5000.0
+11;Apartamento;Ipanema;3;1;1;145;8000.0;1510.0;588.0
+12;Apartamento;Leblon;3;2;3;182;8000.0;2800.0;0.0
+13;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;2000.0;750.0
+14;Apartamento;Barra da Tijuca;4;3;4;250;8000.0;3335.0;753.0
+15;Apartamento;Barra da Tijuca;4;1;1;170;8000.0;1600.0;0.0
+16;Apartamento;Barra da Tijuca;4;3;2;224;8000.0;3614.0;536.0
+17;Apartamento;Copacabana;3;1;1;200;8000.0;2000.0;0.0
+18;Apartamento;Barra da Tijuca;4;2;3;235;8000.0;2700.0;415.0
+19;Apartamento;Jardim Botânico;4;2;2;241;8000.0;2203.0;997.0
+20;Apartamento;Barra da Tijuca;4;3;4;250;8000.0;3300.0;0.0
+21;Apartamento;Ipanema;2;1;1;112;8000.0;1350.0;0.0
+22;Apartamento;Barra da Tijuca;2;2;1;115;8000.0;1800.0;0.0
+23;Apartamento;Leblon;3;2;1;140;8000.0;2500.0;4400.0
+24;Apartamento;Lagoa;4;1;1;312;8000.0;3160.0;1184.0
+25;Apartamento;Leblon;3;2;1;130;8000.0;1700.0;600.0
+26;Apartamento;Ipanema;2;1;1;97;8000.0;4700.0;4725.0
+27;Apartamento;Barra da Tijuca;3;3;3;206;8000.0;3000.0;0.0
+28;Apartamento;Barra da Tijuca;4;2;1;300;8000.0;3200.0;0.0
+29;Apartamento;Leblon;4;3;1;1180;8000.0;1500.0;565.0
+30;Apartamento;Leblon;2;1;2;162;8000.0;1136.0;519.0
+31;Apartamento;Ipanema;3;1;1;137;8000.0;2200.0;450.0
+32;Apartamento;Barra da Tijuca;4;2;3;170;8000.0;2000.0;0.0
+33;Apartamento;Lagoa;4;3;1;165;8000.0;1721.0;480.0
+34;Apartamento;Barra da Tijuca;4;4;4;360;8000.0;3200.0;2000.0
+35;Apartamento;Copacabana;3;1;2;150;8000.0;1200.0;340.0
+36;Apartamento;Copacabana;3;0;0;160;8000.0;500.0;150.0
+37;Apartamento;Botafogo;4;2;1;160;8000.0;2200.0;398.0
+38;Apartamento;Ipanema;3;2;1;163;8000.0;3400.0;640.0
+39;Apartamento;Ipanema;2;1;1;90;8000.0;4000.0;800.0
+40;Apartamento;Ipanema;2;1;2;115;8000.0;2520.0;777.0
+41;Apartamento;Barra da Tijuca;3;2;2;200;8000.0;3246.0;0.0
+42;Apartamento;Ipanema;4;2;1;270;8000.0;1471.0;593.0
+43;Apartamento;Copacabana;4;1;1;380;8000.0;2092.0;0.0
+44;Apartamento;Barra da Tijuca;4;3;1;180;8000.0;2400.0;6670.0
+45;Apartamento;Barra da Tijuca;4;3;1;190;8000.0;2504.0;667.0
+46;Apartamento;Ipanema;2;2;1;153;8000.0;1500.0;0.0
+47;Apartamento;Ipanema;3;2;1;160;8000.0;2200.0;420.0
+48;Apartamento;Lagoa;4;3;2;225;8000.0;4300.0;980.0
+49;Apartamento;Barra da Tijuca;4;3;2;307;8000.0;2400.0;600.0
+50;Apartamento;Leblon;2;1;1;110;8000.0;2300.0;282.0
+51;Apartamento;Copacabana;3;3;2;207;8000.0;1500.0;620.0
+52;Apartamento;Barra da Tijuca;4;3;4;240;8000.0;4877.0;1114.0
+53;Apartamento;Leme;3;1;1;110;8000.0;650.0;2620.0
+54;Apartamento;Flamengo;3;1;1;230;8000.0;1850.0;450.0
+55;Apartamento;Leblon;4;3;4;340;8000.0;3400.0;0.0
+56;Apartamento;Ipanema;5;1;3;330;8000.0;1600.0;140.0
+57;Apartamento;Barra da Tijuca;3;3;2;255;8000.0;3900.0;0.0
+58;Apartamento;Barra da Tijuca;4;3;2;243;8000.0;3100.0;680.0
+59;Apartamento;Barra da Tijuca;4;4;4;370;8000.0;4200.0;0.0
+60;Apartamento;Barra da Tijuca;4;3;4;262;8000.0;3375.0;693.0
+61;Apartamento;Leblon;3;2;3;180;8000.0;3000.0;900.0
+62;Apartamento;Leblon;3;1;1;125;8000.0;1900.0;0.0
+63;Apartamento;Gávea;4;2;1;130;8000.0;1700.0;300.0
+64;Apartamento;Leblon;2;1;2;150;8000.0;1200.0;500.0
+65;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;2200.0;650.0
+66;Apartamento;Flamengo;3;1;1;250;8000.0;1600.0;729.0
+67;Apartamento;Barra da Tijuca;4;3;4;250;8000.0;2850.0;750.0
+68;Apartamento;Jardim Botânico;3;2;1;112;8000.0;1776.0;334.0
+69;Apartamento;Ipanema;4;2;1;257;8000.0;2800.0;680.0
+70;Apartamento;Leblon;3;1;1;188;8000.0;4500.0;620.0
+71;Apartamento;Barra da Tijuca;3;2;1;235;8000.0;2782.0;745.0
+72;Apartamento;Lagoa;4;4;2;401;8000.0;2211.0;1097.0
+73;Apartamento;Jardim Botânico;4;3;1;165;8000.0;2000.0;512.0
+74;Apartamento;Barra da Tijuca;4;3;2;320;8000.0;1700.0;904.0
+75;Apartamento;Copacabana;4;1;4;240;8000.0;2500.0;600.0
+76;Apartamento;Barra da Tijuca;4;3;1;180;8000.0;2400.0;0.0
+77;Apartamento;Leblon;3;1;1;160;8000.0;1535.0;467.0
+78;Apartamento;Barra da Tijuca;4;3;1;278;8000.0;3300.0;240.0
+79;Apartamento;Leblon;4;3;1;170;8000.0;1495.0;564.0
+80;Apartamento;Lagoa;4;2;1;150;8000.0;1750.0;3600.0
+81;Apartamento;Ipanema;4;2;1;260;8000.0;2700.0;680.0
+82;Apartamento;Ipanema;2;1;2;90;8000.0;3832.0;0.0
+83;Apartamento;Copacabana;3;1;1;200;8000.0;2000.0;500.0
+84;Apartamento;Barra da Tijuca;3;2;2;160;8000.0;2900.0;605.0
+85;Apartamento;Recreio dos Bandeirantes;5;4;5;360;8000.0;750.0;9700.0
+86;Apartamento;Ipanema;4;2;1;257;8000.0;2800.0;680.0
+87;Apartamento;Barra da Tijuca;4;3;3;179;8000.0;2000.0;4464.0
+88;Apartamento;Barra da Tijuca;3;3;3;230;8000.0;3900.0;6518.0
+89;Apartamento;Ipanema;3;1;2;130;8000.0;2220.0;540.0
+90;Apartamento;Copacabana;4;1;2;248;8000.0;2800.0;466.0
+91;Apartamento;Lagoa;3;1;1;151;8000.0;1850.0;850.0
+92;Apartamento;Leblon;3;2;1;260;8000.0;4000.0;0.0
+93;Apartamento;Leblon;3;1;1;127;8000.0;1100.0;329.0
+94;Apartamento;Flamengo;3;1;1;165;8000.0;1377.0;300.0
+95;Apartamento;Leblon;3;2;1;260;8000.0;4300.0;1185.0
+96;Apartamento;Lagoa;4;2;1;200;8000.0;2090.0;702.0
+97;Apartamento;Ipanema;3;1;1;145;8000.0;1700.0;0.0
+98;Apartamento;Copacabana;4;1;1;240;8000.0;2400.0;650.0
+99;Apartamento;Lagoa;4;2;1;180;8000.0;2000.0;1000.0
+100;Apartamento;Copacabana;4;0;4;150;8000.0;1368.0;200.0
+101;Apartamento;Ipanema;2;2;1;153;8000.0;1321.0;278.0
+102;Apartamento;Barra da Tijuca;3;3;2;214;8000.0;2500.0;0.0
+103;Apartamento;Barra da Tijuca;3;2;2;200;8000.0;2800.0;0.0
+104;Apartamento;São Conrado;3;2;3;196;8000.0;2874.0;1048.0
+105;Apartamento;Leblon;2;1;2;150;8000.0;1160.0;500.0
+106;Apartamento;Ipanema;3;4;0;120;8000.0;4000.0;850.0
+107;Apartamento;Barra da Tijuca;3;2;1;185;8000.0;2112.0;929.0
+108;Apartamento;Ipanema;2;2;1;170;8000.0;1400.0;355.0
+109;Apartamento;Ipanema;3;1;1;145;8000.0;1550.0;438.0
+110;Apartamento;Barra da Tijuca;4;3;4;200;8000.0;4300.0;0.0
+111;Apartamento;Barra da Tijuca;3;4;2;270;8000.0;1450.0;550.0
+112;Apartamento;Copacabana;4;3;2;200;8000.0;2700.0;600.0
+113;Apartamento;Barra da Tijuca;4;4;4;225;8000.0;4400.0;990.0
+114;Apartamento;Barra da Tijuca;3;2;1;110;8000.0;2700.0;600.0
+115;Apartamento;Ipanema;3;1;1;160;8000.0;1600.0;480.0
+116;Apartamento;São Conrado;3;3;1;360;8000.0;9500.0;176.0
+117;Apartamento;Copacabana;2;4;2;185;8000.0;2600.0;690.0
+118;Apartamento;Barra da Tijuca;4;3;1;180;8000.0;2720.0;0.0
+119;Apartamento;Lagoa;4;1;1;312;8000.0;3059.0;1340.0
+120;Apartamento;Leme;4;0;3;120;8000.0;1481.0;1600.0
+121;Apartamento;Leblon;2;0;2;180;8000.0;1200.0;500.0
+122;Apartamento;Urca;2;0;1;160;8000.0;1970.0;0.0
+123;Apartamento;Copacabana;2;0;1;200;8000.0;1500.0;0.0
+124;Apartamento;Copacabana;4;4;2;190;8000.0;2600.0;610.0
+125;Casa;Copacabana;3;1;2;150;8000.0;0.0;99.0
+126;Casa;Vargem Grande;5;3;2;759;8000.0;700.0;400.0
+127;Casa;Recreio dos Bandeirantes;7;6;4;587;8000.0;0.0;0.0
+128;Casa;Taquara;4;2;1;550;8000.0;0.0;0.0
+129;Casa;Barra da Tijuca;5;4;2;600;8000.0;0.0;0.0
+130;Apartamento;Ipanema;4;2;1;257;8000.0;2800.0;680.0
+131;Apartamento;Barra da Tijuca;4;2;4;240;8000.0;4500.0;1000.0
+132;Apartamento;Lagoa;4;3;1;165;8000.0;1600.0;573.0
+133;Apartamento;Ipanema;4;2;1;257;8000.0;2800.0;680.0
+134;Apartamento;Botafogo;3;2;0;263;8000.0;1815.0;0.0
+135;Apartamento;Ipanema;4;1;3;200;8000.0;2400.0;370.0
+136;Apartamento;Barra da Tijuca;3;3;3;225;8000.0;2700.0;400.0
+137;Apartamento;Leblon;3;1;0;240;8000.0;2000.0;500.0
+138;Apartamento;Leblon;3;1;1;150;8000.0;1540.0;6000.0
+139;Apartamento;Copacabana;3;3;3;220;8000.0;2200.0;350.0
+140;Apartamento;Barra da Tijuca;4;3;4;294;8000.0;3263.0;687.0
+141;Apartamento;Copacabana;3;1;2;225;8000.0;2150.0;0.0
+142;Apartamento;Barra da Tijuca;4;3;4;230;8000.0;1902.0;378.0
+143;Apartamento;Lagoa;4;3;1;160;8000.0;1780.0;520.0
+144;Apartamento;Ipanema;4;1;0;200;8000.0;2500.0;300.0
+145;Apartamento;Copacabana;4;2;2;230;8000.0;4000.0;400.0
+146;Apartamento;Leblon;2;2;1;160;8000.0;2500.0;0.0
+147;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;2200.0;660.0
+148;Apartamento;Ipanema;4;1;3;200;8000.0;2400.0;480.0
+149;Apartamento;Barra da Tijuca;4;3;3;160;8000.0;2100.0;345.0
+150;Apartamento;Ipanema;3;1;1;145;8000.0;1800.0;400.0
+151;Apartamento;Ipanema;4;1;0;150;8000.0;1500.0;261.0
+152;Casa;Humaitá;4;2;2;430;8000.0;0.0;0.0
+153;Apartamento;Barra da Tijuca;3;2;1;150;8000.0;1200.0;400.0
+154;Casa;Recreio dos Bandeirantes;5;3;2;310;8000.0;980.0;350.0
+155;Casa;Recreio dos Bandeirantes;3;20;1;100;8000.0;0.0;0.0
+156;Casa de Condomínio;Recreio dos Bandeirantes;4;6;4;600;8000.0;1800.0;3600.0
+157;Casa de Condomínio;Humaitá;6;2;2;450;8000.0;0.0;0.0
+158;Casa de Condomínio;Barra da Tijuca;5;2;1;480;8000.0;1350.0;1360.0
+159;Casa de Condomínio;Barra da Tijuca;4;4;1;400;8000.0;800.0;0.0
+160;Casa de Condomínio;Barra da Tijuca;4;1;2;247;8000.0;1500.0;680.0
+161;Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;340;8000.0;960.0;4250.0
+162;Casa de Condomínio;Barra da Tijuca;3;2;3;349;8000.0;850.0;583.0
+163;Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;340;8000.0;960.0;4250.0
+164;Casa de Condomínio;Barra da Tijuca;4;8;4;423;8000.0;1000.0;1200.0
+165;Casa de Condomínio;Barra da Tijuca;4;3;4;315;8000.0;1082.0;820.0
+166;Casa de Condomínio;Barra da Tijuca;4;3;2;260;8000.0;900.0;530.0
+167;Casa de Condomínio;Barra da Tijuca;5;3;2;480;8000.0;800.0;700.0
+168;Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;325;8000.0;850.0;500.0
+169;Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;250;8000.0;1800.0;3600.0
+170;Casa de Condomínio;Vargem Grande;3;2;3;350;8000.0;1300.0;0.0
+171;Casa de Condomínio;Copacabana;3;1;2;130;8000.0;0.0;80.0
+172;Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;550;8000.0;900.0;600.0
+173;Casa de Condomínio;Vargem Grande;5;6;5;304;8000.0;1680.0;2105.0
+174;Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;630;8000.0;945.0;530.0
+175;Casa;Recreio dos Bandeirantes;3;30;0;600;8000.0;0.0;280.0
+176;Casa;Itanhangá;4;2;1;450;8000.0;0.0;937.0
+177;Casa;Santa Teresa;5;4;0;380;8000.0;0.0;269.0
+178;Casa;Itanhangá;4;2;2;535;8000.0;1340.0;967.0
+179;Casa;Barra da Tijuca;4;2;2;332;8000.0;510.0;638.0
+180;Casa;Gávea;5;1;1;330;8000.0;0.0;611.0
+181;Casa;Campo Grande;4;1;1;150;8000.0;0.0;0.0
+182;Casa;Recreio dos Bandeirantes;4;3;1;298;8000.0;0.0;3208.0
+183;Casa;Barra da Tijuca;4;2;4;250;8000.0;1800.0;360.0
+184;Apartamento;Flamengo;4;1;1;320;8000.0;1500.0;0.0
+185;Apartamento;Barra da Tijuca;3;2;3;131;8000.0;2800.0;650.0
+186;Apartamento;Leblon;3;1;1;170;8000.0;2800.0;586.0
+187;Apartamento;Barra da Tijuca;4;3;4;239;8000.0;4500.0;0.0
+188;Apartamento;Ipanema;4;2;0;257;8000.0;2800.0;680.0
+189;Apartamento;Lagoa;4;2;1;348;8000.0;3124.0;10400.0
+190;Apartamento;Barra da Tijuca;4;6;3;400;8000.0;5700.0;2000.0
+191;Apartamento;Barra da Tijuca;3;2;1;230;8000.0;3200.0;860.0
+192;Apartamento;Barra da Tijuca;4;3;2;420;8000.0;3400.0;1400.0
+193;Apartamento;Copacabana;2;4;2;185;8000.0;2600.0;611.0
+194;Apartamento;Leblon;3;3;1;170;8000.0;1500.0;565.0
+195;Apartamento;Lagoa;4;2;1;200;8000.0;1815.0;7500.0
+196;Apartamento;Barra da Tijuca;4;4;4;310;8000.0;2150.0;0.0
+197;Apartamento;Barra da Tijuca;3;3;3;175;8000.0;3800.0;9850.0
+198;Apartamento;Ipanema;3;1;1;140;8000.0;1750.0;440.0
+199;Apartamento;Flamengo;4;1;1;270;8000.0;1550.0;660.0
+200;Apartamento;Copacabana;3;1;3;130;8000.0;1179.0;190.0
+201;Apartamento;Ipanema;3;2;1;160;8000.0;2200.0;0.0
+202;Apartamento;Barra da Tijuca;3;1;2;120;8000.0;1840.0;0.0
+203;Apartamento;Ipanema;4;1;3;200;8000.0;2500.0;480.0
+204;Apartamento;Barra da Tijuca;3;2;3;180;8000.0;2570.0;470.0
+205;Apartamento;Ipanema;4;2;1;180;8000.0;1800.0;585.0
+206;Apartamento;Ipanema;2;1;2;105;8000.0;4000.0;412.0
+207;Apartamento;Copacabana;3;1;1;100;8000.0;1050.0;320.0
+208;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;2300.0;0.0
+209;Apartamento;Barra da Tijuca;4;3;1;179;8000.0;3195.0;970.0
+210;Apartamento;Leblon;4;2;1;145;8000.0;2200.0;475.0
+211;Apartamento;Barra da Tijuca;3;2;1;106;8000.0;2700.0;600.0
+212;Apartamento;Leblon;4;3;2;180;8000.0;1995.0;0.0
+213;Apartamento;Barra da Tijuca;4;3;4;234;8000.0;2885.0;625.0
+214;Apartamento;Copacabana;3;2;1;220;8000.0;1900.0;5200.0
+215;Apartamento;Copacabana;3;0;0;110;8000.0;850.0;220.0
+216;Apartamento;Arpoador;2;4;2;180;8000.0;2600.0;611.0
+217;Apartamento;Ipanema;3;2;1;150;8000.0;2200.0;390.0
+218;Apartamento;Ipanema;3;1;1;140;8000.0;930.0;1460.0
+219;Apartamento;Lagoa;3;2;2;203;8000.0;1925.0;940.0
+220;Apartamento;Copacabana;3;1;1;171;8000.0;1374.0;537.0
+221;Apartamento;Ipanema;4;2;2;257;8000.0;2700.0;680.0
+222;Apartamento;Barra da Tijuca;4;5;3;368;8000.0;5700.0;2100.0
+223;Apartamento;Ipanema;2;1;2;115;8000.0;2154.0;387.0
+224;Apartamento;Ipanema;2;1;1;80;8000.0;2613.0;570.0
+225;Apartamento;Leblon;2;1;2;140;8000.0;1500.0;650.0
+226;Apartamento;Recreio dos Bandeirantes;4;4;4;560;8000.0;1620.0;0.0
+227;Apartamento;Barra da Tijuca;4;3;1;160;8000.0;2434.0;800.0
+228;Apartamento;Barra da Tijuca;4;3;3;162;8000.0;2300.0;3000.0
+229;Apartamento;Leblon;2;1;1;110;8000.0;2300.0;397.0
+230;Apartamento;Leblon;4;1;2;214;8000.0;1980.0;490.0
+231;Apartamento;Copacabana;3;1;3;270;8000.0;2000.0;524.0
+232;Apartamento;Recreio dos Bandeirantes;4;4;3;250;8000.0;2780.0;0.0
+233;Apartamento;Barra da Tijuca;4;3;4;340;8000.0;3547.0;10000.0
+234;Apartamento;Leblon;4;2;1;200;8000.0;1780.0;654.0
+235;Apartamento;Barra da Tijuca;4;2;2;150;8000.0;2024.0;888.0
+236;Apartamento;Copacabana;3;1;1;100;8000.0;1050.0;0.0
+237;Apartamento;Leme;3;1;1;150;8000.0;1500.0;600.0
+238;Apartamento;Urca;2;0;1;164;8000.0;1970.0;372.0
+239;Apartamento;Ipanema;2;1;1;100;8000.0;4100.0;500.0
+240;Apartamento;Lagoa;4;4;2;401;8000.0;2211.0;1097.0
+241;Apartamento;Barra da Tijuca;4;2;1;180;8000.0;2400.0;667.0
+242;Apartamento;Leblon;3;1;1;200;8000.0;4500.0;0.0
+243;Apartamento;Flamengo;3;1;1;250;8000.0;2000.0;580.0
+244;Apartamento;Copacabana;4;1;2;225;8000.0;1900.0;0.0
+245;Apartamento;Laranjeiras;4;1;2;280;8000.0;1870.0;557.0
+246;Apartamento;Barra da Tijuca;4;3;4;240;8000.0;4273.0;1051.0
+247;Apartamento;Copacabana;3;2;1;170;8000.0;1900.0;500.0
+248;Apartamento;Flamengo;3;1;1;160;8000.0;1600.0;250.0
+249;Apartamento;Lagoa;3;2;1;340;8000.0;3200.0;1250.0
+250;Apartamento;Leblon;3;2;1;200;8000.0;3300.0;839.0
+251;Apartamento;Barra da Tijuca;3;0;2;180;8000.0;1700.0;0.0
+252;Apartamento;Leblon;2;1;2;150;8000.0;1136.0;519.0
+253;Apartamento;Ipanema;1;8;1;97;8000.0;1800.0;250.0
+254;Apartamento;Ipanema;3;1;1;150;8000.0;2050.0;438.0
+255;Apartamento;Barra da Tijuca;4;4;3;420;8000.0;5700.0;2000.0
+256;Apartamento;Barra da Tijuca;3;3;1;270;8000.0;3000.0;530.0
+257;Apartamento;Leblon;2;2;1;160;8000.0;2550.0;571.0
+258;Apartamento;Barra da Tijuca;4;3;2;420;8000.0;2700.0;0.0
+259;Apartamento;Gávea;3;1;1;160;8000.0;2000.0;0.0
+260;Apartamento;Copacabana;2;0;1;167;8000.0;2785.0;3431.0
+261;Apartamento;Ipanema;3;1;1;145;8000.0;14768.0;4394.0
+262;Apartamento;Leblon;3;2;1;170;8000.0;2000.0;450.0
+263;Apartamento;Leblon;3;3;1;208;8000.0;1700.0;965.0
+264;Apartamento;Barra da Tijuca;5;3;3;450;8000.0;2600.0;1250.0
+265;Apartamento;Copacabana;4;1;1;274;8000.0;1746.0;7077.0
+266;Apartamento;Barra de Guaratiba;3;2;1;190;8000.0;2250.0;600.0
+267;Apartamento;Lagoa;3;1;1;120;8000.0;1900.0;435.0
+268;Apartamento;Ipanema;3;1;1;263;8000.0;3500.0;899.0
+269;Apartamento;Leblon;4;3;1;160;8000.0;1500.0;564.0
+270;Apartamento;Copacabana;3;1;1;110;8000.0;1100.0;390.0
+271;Apartamento;Leblon;4;3;1;170;8000.0;1495.0;564.0
+272;Apartamento;Leme;2;2;1;181;8000.0;1800.0;674.0
+273;Apartamento;Ipanema;3;1;2;170;8000.0;1900.0;0.0
+274;Apartamento;Ipanema;3;1;1;140;8000.0;2636.0;139.0
+275;Apartamento;Copacabana;3;1;1;100;8000.0;1050.0;340.0
+276;Apartamento;Leblon;3;2;1;170;8000.0;2790.0;640.0
+277;Apartamento;São Conrado;3;0;3;200;8000.0;2600.0;1000.0
+278;Apartamento;Leblon;3;2;1;150;8000.0;2360.0;597.0
+279;Apartamento;Barra da Tijuca;4;2;2;280;8000.0;2990.0;560.0
+280;Apartamento;Ipanema;3;1;0;130;8000.0;2000.0;480.0
+281;Apartamento;Ipanema;4;2;1;200;8000.0;1650.0;750.0
+282;Apartamento;Copacabana;3;1;0;290;8000.0;2032.0;7000.0
+283;Apartamento;Barra da Tijuca;4;3;4;206;8000.0;2700.0;4500.0
+284;Apartamento;Leblon;3;1;1;123;8000.0;1800.0;419.0
+285;Apartamento;Ipanema;4;2;1;222;8000.0;2600.0;721.0
+286;Apartamento;Barra da Tijuca;4;3;1;180;8000.0;2400.0;667.0
+287;Apartamento;Barra da Tijuca;3;3;3;268;8000.0;3300.0;689.0
+288;Apartamento;Ipanema;2;1;1;78;8000.0;3300.0;570.0
+289;Apartamento;Ipanema;4;1;2;200;8000.0;2500.0;0.0
+290;Apartamento;Barra da Tijuca;4;2;2;246;8000.0;1800.0;450.0
+291;Apartamento;Leblon;4;3;1;180;8000.0;1800.0;500.0
+292;Apartamento;Barra da Tijuca;4;4;4;310;8000.0;2160.0;1038.0
+293;Apartamento;Leblon;2;2;2;132;8000.0;2328.0;782.0
+294;Apartamento;Ipanema;2;1;1;85;8000.0;3700.0;300.0
+295;Apartamento;Leblon;3;1;1;124;8000.0;2055.0;462.0
+296;Apartamento;Barra da Tijuca;4;2;1;160;8000.0;1795.0;636.0
+297;Apartamento;Barra da Tijuca;4;2;4;230;8000.0;2800.0;430.0
+298;Apartamento;Barra da Tijuca;4;4;4;310;8000.0;2150.0;1038.0
+299;Apartamento;Flamengo;4;1;1;270;8000.0;1550.0;0.0
+300;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;1790.0;686.0
+301;Apartamento;Copacabana;4;4;2;200;8000.0;2900.0;745.0
+302;Apartamento;Ipanema;3;2;2;150;8000.0;2023.0;535.0
+303;Apartamento;Barra da Tijuca;3;3;3;170;8000.0;2300.0;4600.0
+304;Apartamento;Ipanema;2;2;2;82;8000.0;3570.0;5992.0
+305;Apartamento;Barra da Tijuca;3;3;3;300;8000.0;2287.0;1230.0
+306;Apartamento;Lagoa;4;2;2;344;8000.0;3200.0;1258.0
+307;Apartamento;Leme;3;1;1;175;8000.0;1380.0;0.0
+308;Apartamento;Ipanema;3;1;1;151;8000.0;1550.0;458.0
+309;Apartamento;Ipanema;3;1;2;90;8000.0;700.0;0.0
+310;Apartamento;Arpoador;3;4;2;200;8000.0;2900.0;0.0
+311;Apartamento;Barra da Tijuca;4;3;3;222;8000.0;2700.0;4390.0
+312;Apartamento;Ipanema;3;1;1;180;8000.0;2760.0;465.0
+313;Apartamento;Ipanema;3;1;1;108;8000.0;1352.0;350.0
+314;Apartamento;Copacabana;3;1;1;280;8000.0;1200.0;400.0
+315;Apartamento;Copacabana;4;1;4;240;8000.0;2500.0;500.0
+316;Apartamento;Barra da Tijuca;4;3;4;192;8000.0;2100.0;3200.0
+317;Apartamento;Ipanema;2;2;1;130;8000.0;2000.0;660.0
+318;Apartamento;Ipanema;3;1;1;140;8000.0;1550.0;438.0
+319;Apartamento;Leme;3;1;0;200;8000.0;2300.0;510.0
+320;Apartamento;Ipanema;3;1;1;145;8000.0;1600.0;430.0
+321;Apartamento;Copacabana;3;1;1;257;8000.0;1848.0;709.0
+322;Apartamento;Barra da Tijuca;4;4;4;360;8000.0;3200.0;2000.0
+323;Apartamento;Ipanema;4;1;1;141;8000.0;1500.0;0.0
+324;Apartamento;Barra da Tijuca;4;2;1;189;8000.0;2200.0;660.0
+325;Apartamento;Barra da Tijuca;3;3;1;175;8000.0;1400.0;3800.0
+326;Apartamento;Lagoa;3;2;1;120;8000.0;1660.0;383.0
+327;Apartamento;Barra da Tijuca;4;3;2;361;8000.0;3068.0;0.0
+328;Apartamento;Ipanema;3;2;1;170;8000.0;2000.0;532.0
+329;Apartamento;Lagoa;3;0;1;140;8000.0;1564.0;430.0
+330;Apartamento;Barra da Tijuca;4;3;1;180;8000.0;2300.0;700.0
+331;Apartamento;Copacabana;4;0;1;250;8000.0;996.0;0.0
+332;Apartamento;Ipanema;3;1;2;135;8000.0;1920.0;2150.0
+333;Apartamento;Humaitá;4;3;2;215;8000.0;2900.0;750.0
+334;Apartamento;Ipanema;4;3;1;180;8000.0;1800.0;600.0
+335;Apartamento;Barra da Tijuca;4;3;4;260;8000.0;3100.0;0.0
+336;Apartamento;Barra da Tijuca;4;3;4;260;8000.0;3200.0;6400.0
+337;Apartamento;Leblon;2;1;1;80;8000.0;2279.0;0.0
+338;Apartamento;Flamengo;3;1;1;137;8000.0;1945.0;0.0
+339;Apartamento;Barra da Tijuca;4;3;1;180;8000.0;2400.0;667.0
+340;Casa de Condomínio;Barra da Tijuca;4;5;4;325;8009.0;600.0;0.0
+341;Casa de Condomínio;Barra da Tijuca;4;3;2;440;8100.0;900.0;600.0
+342;Apartamento;Barra da Tijuca;4;3;4;237;8100.0;3500.0;400.0
+343;Apartamento;Barra da Tijuca;4;3;4;256;8200.0;2900.0;0.0
+344;Apartamento;Copacabana;4;1;1;200;8200.0;1000.0;400.0
+345;Apartamento;Barra da Tijuca;3;2;1;300;8200.0;3700.0;1360.0
+346;Apartamento;Ipanema;3;1;1;140;8200.0;2900.0;0.0
+347;Casa;Barra da Tijuca;5;5;0;341;8200.0;0.0;794.0
+348;Apartamento;Leblon;4;1;2;214;8300.0;1936.0;48.0
+349;Apartamento;Ipanema;2;1;2;90;8300.0;3300.0;0.0
+350;Apartamento;Leblon;3;1;1;120;8300.0;1990.0;284.0
+351;Apartamento;Ipanema;2;1;2;95;8300.0;3280.0;0.0
+352;Apartamento;Barra da Tijuca;4;4;4;276;8300.0;1550.0;0.0
+353;Casa;Glória;5;0;3;265;8400.0;0.0;0.0
+354;Casa de Condomínio;Barra da Tijuca;5;4;2;360;8400.0;500.0;8000.0
+355;Apartamento;Barra da Tijuca;3;3;2;270;8400.0;2500.0;600.0
+356;Apartamento;Ipanema;3;1;1;165;8400.0;1900.0;400.0
+357;Apartamento;Leblon;3;2;1;180;8400.0;2400.0;439.0
+358;Apartamento;Botafogo;4;0;2;240;8400.0;2000.0;400.0
+359;Apartamento;Barra da Tijuca;4;4;3;220;8440.0;960.0;600.0
+360;Apartamento;Barra da Tijuca;4;3;3;160;8450.0;2300.0;400.0
+361;Casa;Barra da Tijuca;5;3;3;400;8450.0;790.0;600.0
+362;Apartamento;Barra da Tijuca;4;3;2;240;8490.0;2750.0;550.0
+363;Apartamento;Copacabana;3;1;0;189;8499.0;1600.0;520.0
+364;Apartamento;Copacabana;4;1;1;200;8500.0;2200.0;2500.0
+365;Apartamento;Ipanema;3;1;1;145;8500.0;2050.0;438.0
+366;Apartamento;São Conrado;4;3;1;260;8500.0;3650.0;1170.0
+367;Apartamento;Lagoa;4;2;1;255;8500.0;2529.0;490.0
+368;Apartamento;Barra da Tijuca;4;1;3;160;8500.0;2300.0;345.0
+369;Apartamento;Leblon;3;1;1;155;8500.0;1500.0;500.0
+370;Apartamento;Leblon;4;2;0;261;8500.0;3000.0;620.0
+371;Apartamento;Barra da Tijuca;4;3;3;200;8500.0;2160.0;350.0
+372;Apartamento;Barra da Tijuca;4;0;0;249;8500.0;2850.0;750.0
+373;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;345.0
+374;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;345.0
+375;Casa de Condomínio;Recreio dos Bandeirantes;4;3;3;420;8500.0;1000.0;1070.0
+376;Apartamento;Ipanema;3;1;1;160;8500.0;1300.0;370.0
+377;Apartamento;Barra da Tijuca;4;3;4;234;8500.0;3400.0;544.0
+378;Apartamento;Ipanema;2;1;1;142;8500.0;2600.0;430.0
+379;Apartamento;Lagoa;4;3;1;255;8500.0;2510.0;770.0
+380;Apartamento;Copacabana;4;1;1;280;8500.0;1748.0;664.0
+381;Apartamento;Ipanema;3;1;2;174;8500.0;2400.0;6000.0
+382;Casa;Itanhangá;10;0;6;800;8500.0;0.0;0.0
+383;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;0.0
+384;Apartamento;Flamengo;3;1;2;220;8500.0;1700.0;750.0
+385;Apartamento;Ipanema;4;1;1;150;8500.0;1800.0;500.0
+386;Apartamento;Ipanema;3;1;1;170;8500.0;1650.0;440.0
+387;Apartamento;Flamengo;4;1;2;365;8500.0;2100.0;950.0
+388;Casa de Condomínio;Barra da Tijuca;4;1;1;439;8500.0;1350.0;950.0
+389;Apartamento;Barra da Tijuca;4;3;3;157;8500.0;2300.0;345.0
+390;Casa de Condomínio;Barra da Tijuca;4;2;4;280;8500.0;750.0;620.0
+391;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;345.0
+392;Apartamento;Ipanema;3;1;2;135;8500.0;2400.0;431.0
+393;Apartamento;Ipanema;3;3;3;169;8500.0;2760.0;885.0
+394;Apartamento;Leblon;3;2;2;138;8500.0;1250.0;4700.0
+395;Apartamento;São Conrado;3;3;3;230;8500.0;2780.0;1369.0
+396;Apartamento;Barra da Tijuca;3;3;3;160;8500.0;2200.0;0.0
+397;Apartamento;Ipanema;3;1;1;180;8500.0;1650.0;440.0
+398;Apartamento;Copacabana;4;1;2;303;8500.0;2279.0;805.0
+399;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;250.0
+400;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2360.0;420.0
+401;Apartamento;São Conrado;4;3;0;260;8500.0;3650.0;1170.0
+402;Apartamento;São Conrado;2;2;1;100;8500.0;1600.0;840.0
+403;Apartamento;Copacabana;4;0;2;130;8500.0;790.0;100.0
+404;Apartamento;Barra da Tijuca;4;3;4;249;8500.0;3800.0;753.0
+405;Casa;Recreio dos Bandeirantes;4;0;2;600;8500.0;0.0;1858.0
+406;Apartamento;Copacabana;3;2;1;248;8500.0;1500.0;432.0
+407;Apartamento;Copacabana;3;1;1;190;8500.0;1296.0;305.0
+408;Apartamento;Leblon;3;1;1;140;8500.0;1400.0;532.0
+409;Apartamento;Barra da Tijuca;5;3;3;157;8500.0;2300.0;0.0
+410;Casa de Condomínio;Barra da Tijuca;5;3;4;500;8500.0;900.0;0.0
+411;Apartamento;Copacabana;4;1;2;303;8500.0;2508.0;809.0
+412;Apartamento;Barra da Tijuca;3;3;3;160;8500.0;2300.0;345.0
+413;Apartamento;Flamengo;3;1;1;165;8500.0;1377.0;3000.0
+414;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;345.0
+415;Apartamento;Barra da Tijuca;3;2;1;240;8500.0;3300.0;0.0
+416;Apartamento;Copacabana;4;1;3;300;8500.0;1717.0;310.0
+417;Apartamento;Barra da Tijuca;4;3;4;267;8500.0;2423.0;570.0
+418;Apartamento;Leblon;2;2;1;165;8500.0;2500.0;500.0
+419;Apartamento;Barra da Tijuca;4;3;4;237;8500.0;3400.0;540.0
+420;Apartamento;Ipanema;3;2;1;180;8500.0;1716.0;820.0
+421;Casa de Condomínio;Barra da Tijuca;5;3;2;400;8500.0;860.0;780.0
+422;Apartamento;Barra da Tijuca;6;3;4;360;8500.0;1600.0;750.0
+423;Apartamento;Ipanema;3;1;1;140;8500.0;1300.0;462.0
+424;Apartamento;Barra da Tijuca;4;3;0;160;8500.0;2300.0;345.0
+425;Casa;Barra da Tijuca;4;4;4;428;8500.0;1085.0;1311.0
+426;Apartamento;Ipanema;3;1;1;152;8500.0;925.0;307.0
+427;Apartamento;Botafogo;4;2;2;160;8500.0;2660.0;280.0
+428;Apartamento;Ipanema;4;2;1;180;8500.0;1796.0;0.0
+429;Casa de Condomínio;Barra da Tijuca;4;3;1;450;8500.0;800.0;7500.0
+430;Apartamento;Arpoador;2;4;2;190;8500.0;2600.0;611.0
+431;Apartamento;Copacabana;3;1;1;190;8500.0;1400.0;4200.0
+432;Apartamento;Barra da Tijuca;3;3;3;160;8500.0;2300.0;350.0
+433;Apartamento;Gávea;3;1;3;144;8500.0;1800.0;310.0
+434;Apartamento;Barra da Tijuca;4;3;4;250;8500.0;3500.0;600.0
+435;Apartamento;Copacabana;3;1;0;200;8500.0;1850.0;0.0
+436;Casa de Condomínio;Barra da Tijuca;5;4;2;420;8500.0;850.0;0.0
+437;Apartamento;Urca;3;2;1;165;8500.0;3500.0;500.0
+438;Apartamento;Barra da Tijuca;4;3;4;237;8500.0;3500.0;400.0
+439;Apartamento;Barra da Tijuca;4;3;4;250;8500.0;3300.0;750.0
+440;Apartamento;Península;4;3;3;160;8500.0;2300.0;0.0
+441;Apartamento;Copacabana;3;1;1;182;8500.0;1296.0;324.0
+442;Casa;Gávea;4;1;2;350;8500.0;0.0;554.0
+443;Apartamento;Ipanema;3;1;2;165;8500.0;1920.0;340.0
+444;Apartamento;Copacabana;4;0;2;130;8500.0;730.0;1400.0
+445;Apartamento;Flamengo;3;1;3;220;8500.0;1500.0;700.0
+446;Apartamento;Copacabana;5;1;1;400;8500.0;2160.0;365.0
+447;Casa;Recreio dos Bandeirantes;3;4;1;400;8500.0;0.0;0.0
+448;Apartamento;Leme;2;1;0;200;8500.0;2300.0;510.0
+449;Apartamento;Barra da Tijuca;3;3;3;260;8500.0;3600.0;530.0
+450;Apartamento;Lagoa;3;2;2;245;8500.0;2000.0;890.0
+451;Casa de Condomínio;Barra da Tijuca;5;2;2;300;8500.0;800.0;7500.0
+452;Apartamento;Barra da Tijuca;2;2;2;110;8500.0;2200.0;700.0
+453;Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;460;8500.0;995.0;873.0
+454;Apartamento;Barra da Tijuca;3;2;1;240;8500.0;3100.0;300.0
+455;Apartamento;Península;4;3;3;156;8500.0;2300.0;345.0
+456;Apartamento;Ipanema;3;1;2;130;8500.0;2220.0;540.0
+457;Apartamento;Barra da Tijuca;4;3;4;256;8500.0;2900.0;0.0
+458;Apartamento;Jardim Botânico;4;2;1;220;8500.0;1900.0;300.0
+459;Apartamento;São Conrado;4;2;2;340;8500.0;3716.0;458.0
+460;Apartamento;Leblon;3;1;1;140;8500.0;1500.0;0.0
+461;Apartamento;Barra da Tijuca;4;2;1;180;8500.0;2000.0;600.0
+462;Apartamento;Copacabana;3;1;1;182;8500.0;1296.0;340.0
+463;Casa de Condomínio;Barra da Tijuca;4;2;4;350;8500.0;510.0;600.0
+464;Apartamento;Copacabana;3;1;1;230;8500.0;3350.0;0.0
+465;Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;340;8500.0;500.0;690.0
+466;Casa de Condomínio;Barra da Tijuca;5;4;5;400;8500.0;2135.0;1462.0
+467;Apartamento;Leblon;3;3;1;166;8500.0;3500.0;680.0
+468;Apartamento;Flamengo;3;1;3;220;8500.0;1500.0;700.0
+469;Apartamento;Copacabana;4;1;1;270;8500.0;2477.0;7504.0
+470;Apartamento;Ipanema;3;1;1;170;8500.0;1650.0;440.0
+471;Apartamento;Ipanema;3;1;1;104;8500.0;1169.0;3131.0
+472;Apartamento;Leblon;4;2;4;200;8500.0;2710.0;945.0
+473;Apartamento;Barra da Tijuca;4;3;4;237;8500.0;3500.0;400.0
+474;Apartamento;Ipanema;3;1;1;145;8500.0;1600.0;0.0
+475;Apartamento;Barra da Tijuca;3;3;3;160;8500.0;2300.0;410.0
+476;Casa de Condomínio;Barra da Tijuca;3;2;3;450;8500.0;850.0;5863.0
+477;Apartamento;Ipanema;3;1;1;140;8500.0;2250.0;513.0
+478;Apartamento;Copacabana;3;1;1;190;8500.0;1300.0;324.0
+479;Apartamento;Leblon;4;2;1;145;8500.0;1960.0;360.0
+480;Casa de Condomínio;Recreio dos Bandeirantes;5;2;5;400;8500.0;1000.0;480.0
+481;Apartamento;Leblon;3;1;1;150;8500.0;2055.0;399.0
+482;Apartamento;Leblon;4;2;0;260;8500.0;3000.0;600.0
+483;Apartamento;Barra da Tijuca;4;3;2;480;8500.0;2500.0;0.0
+484;Apartamento;Copacabana;3;1;1;190;8500.0;1300.0;340.0
+485;Apartamento;Copacabana;3;0;2;130;8500.0;695.0;100.0
+486;Casa de Condomínio;Itanhangá;4;1;1;439;8500.0;1350.0;914.0
+487;Apartamento;Lagoa;3;2;1;160;8500.0;2243.0;461.0
+488;Casa de Condomínio;Barra da Tijuca;4;4;3;431;8500.0;2134.0;1471.0
+489;Apartamento;Barra da Tijuca;4;3;3;197;8500.0;2300.0;3500.0
+490;Apartamento;Copacabana;3;1;1;190;8500.0;1286.0;324.0
+491;Casa de Condomínio;Barra da Tijuca;4;3;1;400;8500.0;880.0;780.0
+492;Apartamento;Leblon;4;3;4;300;8500.0;10000.0;1280.0
+493;Apartamento;Leblon;4;1;1;140;8500.0;2056.0;400.0
+494;Apartamento;Leblon;3;2;1;179;8500.0;3990.0;0.0
+495;Casa de Condomínio;Barra da Tijuca;5;5;2;420;8500.0;850.0;0.0
+496;Apartamento;Ipanema;2;1;2;95;8500.0;4000.0;800.0
+497;Apartamento;Barra da Tijuca;3;2;1;240;8500.0;5748.0;12070.0
+498;Apartamento;Ipanema;2;1;2;110;8500.0;2062.0;0.0
+499;Apartamento;Flamengo;4;1;2;269;8500.0;2200.0;540.0
+500;Apartamento;Leblon;3;2;1;110;8500.0;2300.0;400.0
+501;Casa de Condomínio;Barra da Tijuca;4;3;2;410;8500.0;870.0;8100.0
+502;Apartamento;Ipanema;3;1;1;102;8500.0;1170.0;337.0
+503;Apartamento;Copacabana;3;1;0;200;8500.0;1600.0;800.0
+504;Apartamento;Leblon;1;2;0;130;8500.0;1920.0;356.0
+505;Apartamento;Copacabana;3;1;1;200;8500.0;2000.0;540.0
+506;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;345.0
+507;Apartamento;Leblon;4;2;4;200;8500.0;2700.0;944.0
+508;Apartamento;Lagoa;4;3;1;255;8500.0;2529.0;490.0
+509;Apartamento;Barra da Tijuca;4;3;4;440;8500.0;6500.0;1500.0
+510;Casa de Condomínio;Barra da Tijuca;4;3;1;400;8500.0;970.0;0.0
+511;Apartamento;Barra da Tijuca;4;0;4;223;8500.0;3100.0;700.0
+512;Apartamento;Copacabana;3;1;1;200;8500.0;1296.0;305.0
+513;Casa de Condomínio;Barra da Tijuca;4;5;3;453;8500.0;520.0;684.0
+514;Apartamento;Leblon;3;3;1;166;8500.0;3500.0;500.0
+515;Casa de Condomínio;Recreio dos Bandeirantes;4;2;1;348;8500.0;1003.0;6968.0
+516;Apartamento;Ipanema;3;3;1;170;8500.0;2355.0;410.0
+517;Apartamento;Barra da Tijuca;4;3;3;197;8500.0;1700.0;0.0
+518;Casa de Condomínio;Itanhangá;6;6;4;800;8500.0;0.0;0.0
+519;Apartamento;Barra da Tijuca;4;3;4;249;8500.0;2850.0;750.0
+520;Apartamento;Flamengo;4;2;1;125;8500.0;1400.0;317.0
+521;Apartamento;Ipanema;5;3;1;300;8500.0;2000.0;1000.0
+522;Casa de Condomínio;Barra da Tijuca;4;2;4;470;8500.0;510.0;600.0
+523;Casa de Condomínio;Barra da Tijuca;5;2;2;450;8500.0;850.0;5500.0
+524;Apartamento;Gávea;3;1;3;144;8500.0;1800.0;310.0
+525;Apartamento;Leblon;3;3;1;166;8500.0;3577.0;500.0
+526;Apartamento;Leblon;4;2;1;140;8500.0;1960.0;350.0
+527;Casa de Condomínio;Barra da Tijuca;3;4;1;350;8500.0;1172.0;721.0
+528;Apartamento;Barra da Tijuca;3;2;1;159;8500.0;900.0;600.0
+529;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;400.0
+530;Apartamento;Leblon;3;3;1;170;8500.0;2252.0;606.0
+531;Apartamento;Barra da Tijuca;4;3;3;160;8500.0;2300.0;400.0
+532;Apartamento;Ipanema;3;1;1;170;8500.0;1650.0;440.0
+533;Apartamento;Leblon;4;2;1;145;8500.0;2120.0;480.0
+534;Apartamento;Copacabana;3;1;1;180;8500.0;1296.0;305.0
+535;Apartamento;Copacabana;3;1;1;190;8500.0;1234.0;324.0
+536;Apartamento;Ipanema;3;1;2;130;8500.0;2700.0;0.0
+537;Apartamento;Barra da Tijuca;4;3;3;160;8600.0;2300.0;250.0
+538;Apartamento;Leblon;3;1;1;220;8600.0;3300.0;0.0
+539;Casa;Lagoa;3;3;1;250;8600.0;1900.0;580.0
+540;Apartamento;Leblon;3;3;1;130;8600.0;1300.0;500.0
+541;Apartamento;Lagoa;3;3;0;250;8600.0;1900.0;580.0
+542;Apartamento;Barra da Tijuca;4;3;3;157;8600.0;2312.0;3456.0
+543;Apartamento;Barra da Tijuca;4;3;3;160;8600.0;2300.0;250.0
+544;Apartamento;Barra da Tijuca;4;3;3;160;8600.0;2300.0;250.0
+545;Apartamento;Lagoa;3;3;1;250;8600.0;1900.0;580.0
+546;Apartamento;Ipanema;4;1;2;220;8700.0;2300.0;0.0
+547;Apartamento;Ipanema;4;2;1;191;8700.0;3700.0;150.0
+548;Apartamento;Leblon;3;2;1;200;8700.0;2792.0;0.0
+549;Apartamento;Ipanema;3;1;1;130;8700.0;1900.0;300.0
+550;Apartamento;Arpoador;4;4;2;180;8700.0;2400.0;700.0
+551;Apartamento;Flamengo;5;2;1;340;8700.0;2700.0;150.0
+552;Apartamento;Lagoa;3;2;1;252;8800.0;1900.0;600.0
+553;Apartamento;Ipanema;4;1;1;200;8800.0;2500.0;500.0
+554;Apartamento;Flamengo;4;1;0;230;8800.0;1850.0;450.0
+555;Apartamento;Flamengo;4;1;1;240;8800.0;1700.0;0.0
+556;Apartamento;Barra da Tijuca;4;2;2;178;8891.0;2500.0;3500.0
+557;Apartamento;Copacabana;4;1;1;170;8900.0;3611.0;555.0
+558;Apartamento;Ipanema;3;2;1;240;8900.0;1700.0;550.0
+559;Apartamento;Barra da Tijuca;4;3;2;303;8900.0;2277.0;1690.0
+560;Apartamento;Barra da Tijuca;4;0;2;179;8900.0;2529.0;406.0
+561;Apartamento;Ipanema;3;2;1;240;8900.0;1600.0;400.0
+562;Apartamento;Copacabana;3;2;1;275;8900.0;2122.0;750.0
+563;Apartamento;Leblon;5;4;3;350;8900.0;1870.0;0.0
+564;Apartamento;Barra da Tijuca;5;3;3;266;8900.0;3500.0;450.0
+565;Apartamento;Leblon;3;1;1;160;8900.0;1600.0;0.0
+566;Apartamento;Ipanema;3;2;1;300;8900.0;1750.0;550.0
+567;Apartamento;Barra da Tijuca;3;3;3;266;8900.0;3500.0;480.0
+568;Apartamento;Barra da Tijuca;4;0;4;500;8900.0;3500.0;3500.0
+569;Apartamento;Flamengo;3;1;1;137;8900.0;1945.0;371.0
+570;Apartamento;Leblon;2;3;2;140;8900.0;1700.0;603.0
+571;Casa;Laranjeiras;4;0;2;85;8900.0;0.0;0.0
+572;Apartamento;Ipanema;3;0;1;180;8900.0;2300.0;0.0
+573;Apartamento;Flamengo;4;1;1;290;8960.0;1800.0;700.0
+574;Apartamento;Ipanema;4;3;1;232;8990.0;4500.0;1200.0
+575;Apartamento;Barra da Tijuca;4;3;4;240;8990.0;4877.0;9070.0
+576;Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;300;9000.0;600.0;3000.0
+577;Apartamento;Barra da Tijuca;4;4;4;397;9000.0;4000.0;1000.0
+578;Apartamento;Copacabana;3;1;2;200;9000.0;2289.0;0.0
+579;Casa de Condomínio;Barra da Tijuca;4;2;4;350;9000.0;1050.0;7000.0
+580;Apartamento;Barra da Tijuca;4;4;4;492;9000.0;5800.0;1300.0
+581;Apartamento;Copacabana;4;2;1;200;9000.0;2100.0;0.0
+582;Apartamento;Ipanema;3;1;1;145;9000.0;1100.0;3900.0
+583;Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;950.0;5500.0
+584;Casa de Condomínio;Barra da Tijuca;4;3;4;320;9000.0;500.0;5000.0
+585;Apartamento;Leblon;3;1;1;180;9000.0;1554.0;569.0
+586;Apartamento;Leblon;3;2;1;170;9000.0;1700.0;300.0
+587;Apartamento;Lagoa;3;3;0;280;9000.0;1700.0;0.0
+588;Apartamento;Copacabana;3;1;1;100;9000.0;900.0;220.0
+589;Apartamento;Copacabana;3;0;1;98;9000.0;562.0;200.0
+590;Apartamento;Copacabana;4;1;4;250;9000.0;2500.0;6000.0
+591;Apartamento;Copacabana;4;1;4;240;9000.0;2500.0;500.0
+592;Casa de Condomínio;Barra da Tijuca;4;4;4;341;9000.0;850.0;766.0
+593;Apartamento;Ipanema;3;1;1;150;9000.0;1200.0;2200.0
+594;Apartamento;Barra da Tijuca;4;3;2;290;9000.0;3700.0;600.0
+595;Apartamento;Lagoa;3;2;2;250;9000.0;2100.0;500.0
+596;Apartamento;Barra da Tijuca;4;2;4;353;9000.0;1500.0;912.0
+597;Casa de Condomínio;Barra da Tijuca;4;5;2;390;9000.0;900.0;1380.0
+598;Apartamento;Leblon;3;1;1;190;9000.0;3000.0;700.0
+599;Apartamento;Recreio dos Bandeirantes;5;4;4;740;9000.0;3000.0;2500.0
+600;Casa de Condomínio;Barra da Tijuca;5;1;2;250;9000.0;1650.0;500.0
+601;Apartamento;Ipanema;3;1;2;140;9000.0;2200.0;557.0
+602;Apartamento;Barra da Tijuca;6;4;4;460;9000.0;2360.0;1800.0
+603;Apartamento;Leblon;3;1;1;135;9000.0;1006.0;270.0
+604;Casa de Condomínio;Barra da Tijuca;4;3;4;381;9000.0;706.0;0.0
+605;Apartamento;Copacabana;2;4;2;185;9000.0;2600.0;0.0
+606;Apartamento;Barra da Tijuca;4;3;4;388;9000.0;4500.0;15000.0
+607;Apartamento;Barra da Tijuca;4;2;4;225;9000.0;4500.0;1000.0
+608;Apartamento;Ipanema;4;1;1;260;9000.0;4150.0;925.0
+609;Apartamento;Copacabana;4;1;0;220;9000.0;2100.0;570.0
+610;Apartamento;Leblon;4;1;1;142;9000.0;1563.0;330.0
+611;Apartamento;Leme;3;1;1;170;9000.0;1342.0;0.0
+612;Casa;Barra da Tijuca;4;4;4;450;9000.0;1123.0;0.0
+613;Apartamento;Leblon;3;2;3;160;9000.0;1700.0;700.0
+614;Casa de Condomínio;São Conrado;4;2;2;400;9000.0;850.0;450.0
+615;Apartamento;Laranjeiras;4;2;3;284;9000.0;3200.0;0.0
+616;Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;500;9000.0;1000.0;1100.0
+617;Casa de Condomínio;Barra da Tijuca;5;4;5;300;9000.0;580.0;680.0
+618;Apartamento;Barra da Tijuca;3;2;2;200;9000.0;1700.0;550.0
+619;Apartamento;Ipanema;3;3;3;169;9000.0;2000.0;620.0
+620;Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;350;9000.0;550.0;3000.0
+621;Casa;Itanhangá;3;2;1;321;9000.0;1400.0;0.0
+622;Casa de Condomínio;Barra da Tijuca;4;2;3;330;9000.0;860.0;0.0
+623;Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;500;9000.0;1000.0;900.0
+624;Apartamento;Leblon;4;2;4;200;9000.0;2710.0;994.0
+625;Apartamento;Barra da Tijuca;3;1;2;174;9000.0;2400.0;600.0
+626;Apartamento;Flamengo;3;1;1;250;9000.0;1650.0;583.0
+627;Apartamento;Leblon;4;3;0;230;9000.0;5030.0;760.0
+628;Apartamento;Ipanema;5;4;1;380;9000.0;4076.0;760.0
+629;Apartamento;Ipanema;1;1;1;110;9000.0;2900.0;670.0
+630;Apartamento;Copacabana;3;0;0;100;9000.0;3895.0;4500.0
+631;Apartamento;Flamengo;3;0;1;600;9000.0;3400.0;2178.0
+632;Apartamento;Lagoa;5;3;1;250;9000.0;2670.0;550.0
+633;Apartamento;Copacabana;4;1;4;240;9000.0;2320.0;600.0
+634;Apartamento;Lagoa;3;3;1;252;9000.0;1900.0;600.0
+635;Apartamento;Ipanema;4;3;2;230;9000.0;3000.0;1100.0
+636;Apartamento;Lagoa;2;2;0;150;9000.0;1913.0;470.0
+637;Apartamento;Humaitá;3;2;2;200;9000.0;1200.0;380.0
+638;Apartamento;Ipanema;4;2;1;160;9000.0;2500.0;600.0
+639;Casa;Recreio dos Bandeirantes;4;0;0;686;9000.0;0.0;0.0
+640;Casa de Condomínio;Barra da Tijuca;4;3;4;280;9000.0;950.0;4500.0
+641;Apartamento;Barra da Tijuca;3;3;1;306;9000.0;2300.0;170.0
+642;Casa de Condomínio;Barra da Tijuca;4;4;4;300;9000.0;934.0;8865.0
+643;Apartamento;Barra da Tijuca;4;3;4;230;9000.0;2750.0;600.0
+644;Casa de Condomínio;Barra da Tijuca;4;3;4;355;9000.0;707.0;600.0
+645;Apartamento;São Conrado;3;2;1;170;9000.0;1600.0;0.0
+646;Casa de Condomínio;Barra da Tijuca;4;3;4;350;9000.0;934.0;8865.0
+647;Apartamento;Copacabana;3;0;1;120;9000.0;2600.0;280.0
+648;Apartamento;Barra da Tijuca;3;3;3;230;9000.0;3300.0;1700.0
+649;Apartamento;Barra da Tijuca;4;3;3;180;9000.0;3840.0;8000.0
+650;Apartamento;Ipanema;3;3;3;169;9000.0;2300.0;886.0
+651;Casa de Condomínio;Barra da Tijuca;4;2;4;266;9000.0;1500.0;0.0
+652;Casa;Recreio dos Bandeirantes;4;2;2;353;9000.0;0.0;0.0
+653;Apartamento;Barra da Tijuca;4;3;2;303;9000.0;2277.0;16910.0
+654;Apartamento;Leblon;3;1;1;220;9000.0;3630.0;690.0
+655;Apartamento;Barra da Tijuca;3;2;1;130;9000.0;2433.0;807.0
+656;Apartamento;Ipanema;4;1;1;220;9000.0;1800.0;498.0
+657;Apartamento;Ipanema;3;3;3;169;9000.0;2000.0;620.0
+658;Apartamento;Recreio dos Bandeirantes;5;4;4;700;9000.0;3000.0;2500.0
+659;Apartamento;Flamengo;4;1;1;290;9000.0;1800.0;840.0
+660;Apartamento;Leblon;2;3;1;168;9000.0;2124.0;563.0
+661;Casa de Condomínio;Barra da Tijuca;6;5;6;370;9000.0;580.0;680.0
+662;Apartamento;Copacabana;4;1;4;240;9000.0;2500.0;600.0
+663;Apartamento;Barra da Tijuca;4;2;2;290;9000.0;1150.0;0.0
+664;Apartamento;Copacabana;4;1;4;240;9000.0;2500.0;500.0
+665;Casa de Condomínio;Barra da Tijuca;4;3;4;320;9000.0;800.0;1200.0
+666;Apartamento;Leblon;4;3;4;270;9000.0;10000.0;1000.0
+667;Apartamento;Leblon;3;2;1;160;9000.0;2800.0;0.0
+668;Casa de Condomínio;Barra da Tijuca;5;2;2;320;9000.0;1600.0;610.0
+669;Apartamento;Ipanema;4;3;1;232;9000.0;4400.0;923.0
+670;Casa de Condomínio;Barra da Tijuca;4;4;4;340;9000.0;706.0;8024.0
+671;Apartamento;Copacabana;4;2;1;300;9000.0;3500.0;900.0
+672;Casa de Condomínio;Barra da Tijuca;5;3;4;300;9000.0;820.0;6370.0
+673;Apartamento;Ipanema;3;1;1;145;9000.0;1450.0;360.0
+674;Apartamento;Barra da Tijuca;4;4;4;293;9000.0;4200.0;0.0
+675;Apartamento;Barra da Tijuca;2;3;2;100;9000.0;3982.0;467.0
+676;Casa de Condomínio;Barra da Tijuca;4;4;4;300;9000.0;805.0;0.0
+677;Apartamento;Ipanema;3;3;3;175;9000.0;3000.0;650.0
+678;Apartamento;Ipanema;3;1;1;120;9000.0;1800.0;463.0
+679;Apartamento;Lagoa;3;2;2;222;9000.0;4720.0;980.0
+680;Casa de Condomínio;Barra da Tijuca;5;3;5;300;9000.0;580.0;6800.0
+681;Apartamento;Copacabana;3;2;1;255;9000.0;2100.0;330.0
+682;Apartamento;Leblon;4;1;1;170;9000.0;3630.0;0.0
+683;Apartamento;Barra da Tijuca;4;2;2;178;9000.0;2000.0;900.0
+684;Apartamento;Copacabana;4;1;1;300;9000.0;1900.0;350.0
+685;Apartamento;Ipanema;2;1;1;82;9000.0;4000.0;591.0
+686;Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;260;9000.0;7068.0;8024.0
+687;Casa;Méier;6;1;0;347;9000.0;0.0;0.0
+688;Apartamento;Barra da Tijuca;4;3;4;233;9000.0;3000.0;5063.0
+689;Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;0.0;0.0
+690;Apartamento;Barra da Tijuca;4;3;4;240;9000.0;5302.0;1000.0
+691;Casa;Santa Teresa;6;2;0;381;9000.0;0.0;186.0
+692;Apartamento;Ipanema;2;1;1;90;9000.0;2500.0;0.0
+693;Apartamento;Leblon;5;4;3;350;9000.0;2100.0;817.0
+694;Apartamento;Barra da Tijuca;4;4;4;261;9000.0;2480.0;0.0
+695;Apartamento;Leblon;2;1;1;90;9000.0;1278.0;0.0
+696;Apartamento;São Conrado;4;2;1;147;9000.0;2180.0;458.0
+697;Apartamento;Copacabana;4;1;4;240;9000.0;2500.0;0.0
+698;Apartamento;Copacabana;4;1;4;240;9000.0;2500.0;6000.0
+699;Apartamento;Laranjeiras;4;0;2;217;9000.0;1200.0;0.0
+700;Apartamento;Barra da Tijuca;4;2;1;300;9000.0;3200.0;1200.0
+701;Apartamento;Barra da Tijuca;4;2;1;141;9000.0;1452.0;687.0
+702;Apartamento;Ipanema;3;1;1;190;9000.0;1702.0;0.0
+703;Casa de Condomínio;Barra da Tijuca;5;3;4;407;9000.0;1049.0;8426.0
+704;Apartamento;Barra da Tijuca;2;2;1;115;9000.0;2470.0;4500.0
+705;Apartamento;Copacabana;3;0;1;98;9000.0;562.0;200.0
+706;Apartamento;Copacabana;4;1;3;217;9000.0;2754.0;650.0
+707;Casa de Condomínio;Barra da Tijuca;4;2;3;407;9000.0;1100.0;874.0
+708;Apartamento;Ipanema;3;2;1;220;9000.0;3600.0;1400.0
+709;Casa;Recreio dos Bandeirantes;4;2;4;587;9000.0;850.0;1268.0
+710;Apartamento;Recreio dos Bandeirantes;5;4;4;700;9000.0;3000.0;2500.0
+711;Apartamento;Leblon;3;1;1;142;9000.0;1536.0;569.0
+712;Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;970.0;637.0
+713;Apartamento;São Conrado;4;2;1;200;9000.0;2200.0;4900.0
+714;Apartamento;Lagoa;3;2;1;250;9000.0;1900.0;580.0
+715;Apartamento;Ipanema;3;1;1;200;9000.0;1705.0;0.0
+716;Apartamento;Barra da Tijuca;5;4;3;171;9000.0;2000.0;3500.0
+717;Apartamento;São Conrado;3;3;3;215;9000.0;2780.0;1369.0
+718;Apartamento;Ipanema;4;3;2;228;9000.0;3000.0;1146.0
+719;Apartamento;Barra da Tijuca;4;3;4;296;9000.0;4500.0;8124.0
+720;Apartamento;Lagoa;3;2;1;150;9000.0;2970.0;493.0
+721;Casa de Condomínio;Recreio dos Bandeirantes;4;4;0;400;9000.0;0.0;514.0
+722;Apartamento;Copacabana;4;1;1;330;9000.0;2800.0;37.0
+723;Apartamento;Ipanema;3;1;1;140;9000.0;1600.0;860.0
+724;Apartamento;Barra da Tijuca;3;3;2;280;9000.0;3700.0;1200.0
+725;Apartamento;Ipanema;2;1;1;124;9000.0;1650.0;400.0
+726;Apartamento;Recreio dos Bandeirantes;5;4;4;700;9000.0;3000.0;2500.0
+727;Apartamento;Flamengo;1;0;1;124;9000.0;500.0;0.0
+728;Apartamento;Copacabana;4;2;0;212;9000.0;1765.0;572.0
+729;Apartamento;Ipanema;2;1;1;100;9000.0;3226.0;0.0
+730;Apartamento;Ipanema;3;1;2;240;9000.0;2000.0;800.0
+731;Apartamento;Ipanema;1;1;1;122;9000.0;35579.0;660.0
+732;Casa de Condomínio;Barra da Tijuca;5;4;5;341;9000.0;934.0;0.0
+733;Apartamento;Barra da Tijuca;4;3;4;206;9000.0;3000.0;3500.0
+734;Apartamento;Leblon;4;3;1;170;9000.0;3100.0;589.0
+735;Apartamento;Flamengo;4;0;1;600;9000.0;3400.0;2178.0
+736;Casa de Condomínio;Barra da Tijuca;4;7;1;450;9000.0;500.0;960.0
+737;Apartamento;Copacabana;4;2;2;350;9000.0;2300.0;700.0
+738;Apartamento;Leblon;3;1;1;142;9000.0;1584.0;5293.0
+739;Apartamento;Barra da Tijuca;2;3;2;240;9000.0;1000.0;0.0
+740;Apartamento;Barra da Tijuca;3;3;3;260;9000.0;3903.0;647.0
+741;Apartamento;Barra da Tijuca;3;3;1;236;9000.0;4489.0;1051.0
+742;Apartamento;Barra da Tijuca;3;2;3;170;9000.0;1600.0;547.0
+743;Apartamento;Laranjeiras;5;2;1;400;9000.0;3000.0;0.0
+744;Apartamento;Flamengo;4;0;0;290;9000.0;1800.0;710.0
+745;Apartamento;Ipanema;1;1;1;120;9000.0;3500.0;526.0
+746;Apartamento;Leblon;3;1;1;117;9000.0;2243.0;435.0
+747;Apartamento;São Conrado;3;2;1;320;9000.0;4000.0;1000.0
+748;Apartamento;Leblon;4;3;1;177;9000.0;2420.0;0.0
+749;Apartamento;Ipanema;3;2;2;113;9000.0;1885.0;580.0
+750;Apartamento;Copacabana;5;2;3;380;9000.0;1500.0;680.0
+751;Apartamento;Leblon;4;2;1;184;9000.0;2717.0;990.0
+752;Apartamento;Barra da Tijuca;4;2;1;330;9000.0;3100.0;1085.0
+753;Apartamento;Leblon;3;1;1;135;9000.0;1220.0;430.0
+754;Casa de Condomínio;Barra da Tijuca;5;8;2;472;9000.0;800.0;1050.0
+755;Apartamento;Ipanema;3;1;1;140;9000.0;1800.0;300.0
+756;Apartamento;Lagoa;4;2;4;240;9000.0;4100.0;1079.0
+757;Apartamento;Ipanema;4;2;2;250;9000.0;3700.0;1133.0
+758;Apartamento;Leblon;3;1;1;180;9000.0;1554.0;560.0
+759;Apartamento;Ipanema;3;2;1;157;9000.0;2900.0;620.0
+760;Apartamento;Barra da Tijuca;4;3;4;200;9000.0;2300.0;450.0
+761;Apartamento;Lagoa;4;3;2;240;9000.0;4811.0;1156.0
+762;Apartamento;Leblon;4;2;2;150;9000.0;1900.0;0.0
+763;Apartamento;Barra da Tijuca;2;2;2;200;9009.0;1700.0;530.0
+764;Apartamento;Barra da Tijuca;4;3;4;292;9100.0;4100.0;800.0
+765;Apartamento;Flamengo;4;1;0;290;9200.0;1800.0;0.0
+766;Apartamento;Copacabana;3;1;1;214;9200.0;1824.0;6083.0
+767;Apartamento;Flamengo;4;1;1;290;9200.0;1800.0;700.0
+768;Apartamento;Ipanema;3;1;3;170;9200.0;1700.0;447.0
+769;Apartamento;Leme;3;1;1;220;9200.0;1700.0;1850.0
+770;Apartamento;Botafogo;3;2;3;220;9200.0;3113.0;437.0
+771;Apartamento;Leblon;4;2;2;250;9200.0;3000.0;0.0
+772;Apartamento;Flamengo;4;1;1;290;9200.0;1800.0;845.0
+773;Apartamento;Leme;3;1;0;240;9200.0;1980.0;608.0
+774;Apartamento;Flamengo;4;1;1;290;9200.0;1800.0;700.0
+775;Apartamento;Flamengo;4;0;1;290;9200.0;1800.0;700.0
+776;Apartamento;Flamengo;4;1;1;290;9200.0;1800.0;700.0
+777;Apartamento;Lagoa;3;3;1;250;9200.0;1902.0;585.0
+778;Apartamento;Ipanema;3;0;1;156;9300.0;1700.0;324.0
+779;Apartamento;Leblon;3;2;1;170;9400.0;2700.0;790.0
+780;Apartamento;Leblon;3;2;1;180;9500.0;2804.0;950.0
+781;Casa de Condomínio;Barra da Tijuca;4;2;4;500;9500.0;2100.0;1357.0
+782;Apartamento;Ipanema;4;2;1;200;9500.0;3600.0;1500.0
+783;Apartamento;Barra da Tijuca;4;3;2;310;9500.0;2200.0;1750.0
+784;Casa de Condomínio;Barra da Tijuca;4;3;3;622;9500.0;1380.0;1486.0
+785;Apartamento;Ipanema;3;2;1;200;9500.0;3600.0;1500.0
+786;Casa;Santa Teresa;14;0;14;350;9500.0;0.0;600.0
+787;Apartamento;Copacabana;2;2;1;250;9500.0;1437.0;640.0
+788;Casa de Condomínio;Barra da Tijuca;5;2;4;285;9500.0;600.0;500.0
+789;Casa de Condomínio;Barra da Tijuca;4;3;3;370;9500.0;2333.0;1420.0
+790;Apartamento;Barra da Tijuca;3;2;1;201;9500.0;2300.0;13500.0
+791;Apartamento;Barra da Tijuca;4;3;4;250;9500.0;2800.0;523.0
+792;Casa;Jardim Botânico;2;4;1;107;9500.0;0.0;1091.0
+793;Apartamento;Barra da Tijuca;2;2;1;200;9500.0;1700.0;530.0
+794;Apartamento;Ipanema;4;2;1;200;9500.0;3680.0;1134.0
+795;Apartamento;Barra da Tijuca;4;3;2;267;9500.0;2529.0;565.0
+796;Apartamento;Barra da Tijuca;4;3;3;183;9500.0;3400.0;0.0
+797;Apartamento;Barra da Tijuca;4;3;4;240;9500.0;3626.0;1502.0
+798;Apartamento;São Conrado;4;3;2;460;9500.0;9700.0;9.0
+799;Apartamento;Barra da Tijuca;5;4;5;329;9500.0;2000.0;11800.0
+800;Apartamento;Leblon;3;2;1;151;9500.0;2600.0;400.0
+801;Apartamento;Ipanema;3;0;1;50;9500.0;3600.0;0.0
+802;Apartamento;Barra da Tijuca;4;3;1;260;9500.0;2800.0;0.0
+803;Apartamento;Copacabana;3;1;0;200;9500.0;1600.0;500.0
+804;Apartamento;Flamengo;4;1;1;290;9500.0;1800.0;0.0
+805;Apartamento;Leblon;4;2;4;200;9500.0;2700.0;944.0
+806;Apartamento;Ipanema;4;2;1;195;9500.0;2500.0;0.0
+807;Apartamento;Leblon;4;2;4;200;9500.0;2700.0;944.0
+808;Apartamento;Ipanema;2;1;1;142;9500.0;3000.0;430.0
+809;Apartamento;Ipanema;3;2;2;180;9500.0;3000.0;541.0
+810;Apartamento;Ipanema;2;1;1;95;9500.0;3700.0;540.0
+811;Apartamento;Leme;4;1;0;320;9500.0;2000.0;580.0
+812;Apartamento;Leblon;3;2;1;174;9500.0;2800.0;610.0
+813;Apartamento;Barra da Tijuca;4;4;2;216;9500.0;3893.0;12000.0
+814;Apartamento;São Conrado;4;3;2;457;9500.0;10500.0;2340.0
+815;Apartamento;Leblon;4;2;1;230;9500.0;3300.0;780.0
+816;Apartamento;Ipanema;4;2;1;200;9500.0;3700.0;923.0
+817;Apartamento;Barra da Tijuca;4;2;1;160;9500.0;2000.0;800.0
+818;Apartamento;Leblon;4;2;1;220;9500.0;1800.0;0.0
+819;Apartamento;Ipanema;4;1;1;150;9500.0;2500.0;500.0
+820;Apartamento;Leblon;4;1;1;150;9500.0;2100.0;400.0
+821;Apartamento;Flamengo;3;1;1;252;9500.0;1628.0;573.0
+822;Apartamento;Ipanema;4;2;1;219;9500.0;3700.0;0.0
+823;Apartamento;Barra da Tijuca;4;3;2;340;9500.0;1700.0;10250.0
+824;Apartamento;Copacabana;3;1;0;190;9500.0;2000.0;2000.0
+825;Apartamento;Leblon;3;0;1;120;9500.0;2180.0;435.0
+826;Apartamento;Ipanema;4;2;1;200;9500.0;3600.0;1500.0
+827;Apartamento;São Conrado;5;3;2;400;9500.0;10000.0;2100.0
+828;Apartamento;Barra da Tijuca;4;2;1;287;9500.0;2900.0;500.0
+829;Apartamento;Ipanema;3;2;1;200;9500.0;3600.0;1500.0
+830;Apartamento;Copacabana;3;1;0;220;9500.0;2065.0;740.0
+831;Apartamento;Leblon;4;2;4;200;9500.0;2710.0;1153.0
+832;Apartamento;Ipanema;1;1;1;125;9500.0;2000.0;380.0
+833;Apartamento;Ipanema;3;2;1;200;9500.0;3600.0;1500.0
+834;Apartamento;Barra da Tijuca;3;2;2;200;9500.0;1700.0;0.0
+835;Apartamento;São Conrado;4;4;2;400;9500.0;10500.0;0.0
+836;Apartamento;Leblon;3;2;1;170;9500.0;2800.0;600.0
+837;Apartamento;Ipanema;3;2;1;360;9500.0;1800.0;360.0
+838;Apartamento;Leme;4;1;2;320;9500.0;1800.0;500.0
+839;Apartamento;Leblon;4;2;4;200;9500.0;2710.0;0.0
+840;Apartamento;Leblon;3;1;1;125;9500.0;1900.0;435.0
+841;Apartamento;Barra da Tijuca;4;3;4;250;9500.0;3100.0;720.0
+842;Apartamento;Copacabana;3;0;0;250;9500.0;1600.0;500.0
+843;Apartamento;Leblon;3;2;1;180;9500.0;2800.0;612.0
+844;Apartamento;Leblon;4;1;1;182;9500.0;3150.0;630.0
+845;Apartamento;Barra da Tijuca;3;2;2;189;9500.0;1700.0;0.0
+846;Apartamento;Barra da Tijuca;3;3;2;240;9500.0;3526.0;1502.0
+847;Apartamento;Leblon;4;2;4;200;9500.0;2713.0;1153.0
+848;Apartamento;Ipanema;2;1;2;86;9500.0;3875.0;592.0
+849;Apartamento;Ipanema;4;2;1;200;9500.0;3700.0;923.0
+850;Apartamento;Ipanema;4;2;1;200;9500.0;3700.0;923.0
+851;Apartamento;Leblon;3;2;2;150;9500.0;2720.0;700.0
+852;Apartamento;Ipanema;4;2;1;200;9500.0;3700.0;1500.0
+853;Apartamento;Ipanema;2;2;1;170;9500.0;1400.0;355.0
+854;Apartamento;Copacabana;3;1;0;250;9500.0;1510.0;913.0
+855;Apartamento;Lagoa;4;2;1;200;9500.0;1850.0;0.0
+856;Apartamento;Copacabana;4;1;1;195;9500.0;1707.0;537.0
+857;Apartamento;Leblon;2;2;2;223;9500.0;3996.0;10935.0
+858;Apartamento;Leblon;4;2;4;200;9500.0;2710.0;1153.0
+859;Apartamento;Ipanema;2;2;1;153;9500.0;1321.0;278.0
+860;Apartamento;Barra da Tijuca;4;3;2;230;9500.0;3982.0;467.0
+861;Apartamento;Ipanema;3;2;1;250;9500.0;1750.0;550.0
+862;Apartamento;Leblon;4;2;4;165;9500.0;2710.0;0.0
+863;Apartamento;Copacabana;4;2;1;300;9500.0;2800.0;500.0
+864;Apartamento;Ipanema;4;2;1;200;9500.0;3600.0;1500.0
+865;Apartamento;Copacabana;4;2;2;250;9500.0;1762.0;750.0
+866;Apartamento;Barra da Tijuca;4;2;1;180;9500.0;2300.0;400.0
+867;Apartamento;Flamengo;3;1;0;230;9500.0;1859.0;450.0
+868;Apartamento;Ipanema;2;1;0;120;9500.0;2050.0;0.0
+869;Apartamento;Ipanema;3;2;1;320;9500.0;1700.0;380.0
+870;Apartamento;Ipanema;4;2;1;200;9500.0;3600.0;1502.0
+871;Apartamento;Ipanema;3;1;1;170;9500.0;1650.0;440.0
+872;Apartamento;Ipanema;4;2;1;200;9500.0;3700.0;923.0
+873;Apartamento;Leblon;3;1;1;190;9500.0;3000.0;610.0
+874;Apartamento;Leblon;4;2;4;160;9500.0;2710.0;1154.0
+875;Apartamento;Barra da Tijuca;4;3;4;291;9500.0;4700.0;9000.0
+876;Apartamento;Ipanema;4;2;1;200;9500.0;3700.0;923.0
+877;Apartamento;Ipanema;4;2;1;191;9500.0;3687.0;1503.0
+878;Apartamento;Copacabana;3;1;1;250;9500.0;1680.0;680.0
+879;Apartamento;Lagoa;3;2;3;150;9500.0;3000.0;520.0
+880;Apartamento;Barra da Tijuca;3;2;1;200;9500.0;1700.0;530.0
+881;Apartamento;Ipanema;4;2;1;220;9500.0;3700.0;923.0
+882;Apartamento;Leblon;4;2;4;200;9500.0;2710.0;1625.0
+883;Apartamento;Lagoa;3;2;1;160;9500.0;1321.0;0.0
+884;Apartamento;Copacabana;3;1;0;240;9500.0;1700.0;680.0
+885;Apartamento;Leblon;3;2;1;175;9500.0;2805.0;947.0
+886;Apartamento;Leblon;3;1;1;180;9500.0;3000.0;0.0
+887;Apartamento;Ipanema;3;2;1;200;9500.0;3600.0;1500.0
+888;Apartamento;Humaitá;3;2;3;220;9600.0;13006.0;1800.0
+889;Apartamento;Barra da Tijuca;6;3;3;360;9600.0;1600.0;750.0
+890;Apartamento;Barra da Tijuca;4;3;3;260;9600.0;3500.0;480.0
+891;Apartamento;Leblon;3;1;0;180;9700.0;1550.0;480.0
+892;Apartamento;Leblon;4;2;1;170;9700.0;2200.0;0.0
+893;Apartamento;Gávea;4;3;1;200;9700.0;2500.0;0.0
+894;Casa;Recreio dos Bandeirantes;4;3;4;255;9800.0;640.0;380.0
+895;Casa de Condomínio;Barra da Tijuca;4;2;3;372;9800.0;2333.0;14204.0
+896;Apartamento;Barra da Tijuca;4;3;4;300;9800.0;4000.0;900.0
+897;Apartamento;Leblon;2;2;1;140;9800.0;2733.0;0.0
+898;Apartamento;Barra da Tijuca;4;3;0;230;9800.0;3332.0;381.0
+899;Casa de Condomínio;Recreio dos Bandeirantes;5;4;3;450;9800.0;800.0;0.0
+900;Apartamento;Ipanema;3;1;1;130;9800.0;2280.0;0.0
+901;Casa de Condomínio;Barra da Tijuca;4;0;3;600;9800.0;2333.0;0.0
+902;Apartamento;Copacabana;4;2;2;174;9800.0;1500.0;312.0
+903;Apartamento;Copacabana;4;4;2;150;9800.0;2755.0;746.0
+904;Apartamento;Leblon;3;2;1;150;9800.0;2750.0;1500.0
+905;Apartamento;Barra da Tijuca;4;3;4;234;9800.0;3430.0;0.0
+906;Casa;Barra da Tijuca;4;6;2;800;9800.0;0.0;490.0
+907;Apartamento;Ipanema;2;0;0;90;9800.0;1133.0;0.0
+908;Apartamento;Lagoa;3;2;1;145;9900.0;2950.0;450.0
+909;Apartamento;Ipanema;3;1;2;250;9900.0;2400.0;1000.0
+910;Apartamento;Leblon;3;1;2;150;9900.0;1570.0;400.0
+911;Apartamento;Ipanema;3;2;1;200;9900.0;1200.0;500.0
+912;Apartamento;Ipanema;3;2;2;170;9900.0;4300.0;0.0
+913;Apartamento;Leblon;3;2;2;150;9900.0;1570.0;400.0
+914;Apartamento;Copacabana;2;1;1;200;9900.0;2000.0;600.0
+915;Apartamento;Copacabana;4;0;2;330;9900.0;2100.0;1500.0
+916;Apartamento;Leblon;3;2;2;157;9900.0;1600.0;420.0
+917;Apartamento;Copacabana;2;1;1;204;9900.0;2050.0;550.0
+918;Apartamento;Ipanema;5;4;1;380;9900.0;3508.0;760.0
+919;Apartamento;Barra da Tijuca;4;3;3;179;9900.0;2600.0;400.0
+920;Casa de Condomínio;Barra da Tijuca;6;6;3;622;9950.0;1300.0;1485.0
+921;Casa;Joá;4;7;0;340;9990.0;0.0;970.0
+922;Casa de Condomínio;Barra da Tijuca;4;4;3;622;9991.0;1380.0;1486.0
+923;Casa;Barra da Tijuca;5;3;2;412;10000.0;1050.0;0.0
+924;Casa de Condomínio;Barra da Tijuca;6;4;4;622;10000.0;0.0;0.0
+925;Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;475;10000.0;2700.0;300.0
+926;Casa de Condomínio;Recreio dos Bandeirantes;5;3;4;280;10000.0;0.0;0.0
+927;Casa de Condomínio;Recreio dos Bandeirantes;5;4;4;900;10000.0;1380.0;2200.0
+928;Casa de Condomínio;Barra da Tijuca;4;3;4;500;10000.0;1050.0;1300.0
+929;Casa de Condomínio;Barra da Tijuca;4;4;3;622;10000.0;1380.0;1486.0
+930;Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;250;10000.0;2000.0;345.0
+931;Casa de Condomínio;Itanhangá;5;3;5;800;10000.0;1500.0;171.0
+932;Casa de Condomínio;Barra da Tijuca;4;4;3;622;10000.0;1390.0;1514.0
+933;Casa de Condomínio;Itanhangá;4;0;2;400;10000.0;1400.0;1500.0
+934;Casa;Jardim Botânico;4;0;3;280;10000.0;0.0;520.0
+935;Casa;Campo Grande;6;4;0;180;10000.0;0.0;0.0
+936;Casa de Condomínio;Barra da Tijuca;4;3;4;340;10000.0;1100.0;550.0
+937;Casa;Laranjeiras;5;6;5;980;10000.0;0.0;1200.0
+938;Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1390.0;1486.0
+939;Casa de Condomínio;Barra da Tijuca;4;4;4;400;10000.0;2100.0;1400.0
+940;Casa;São Conrado;4;3;2;380;10000.0;0.0;730.0
+941;Casa de Condomínio;Barra da Tijuca;4;5;2;410;10000.0;1100.0;850.0
+942;Casa de Condomínio;Gávea;5;4;1;705;10000.0;1000.0;1700.0
+943;Casa de Condomínio;Barra da Tijuca;5;4;4;1008;10000.0;1129.0;1486.0
+944;Casa de Condomínio;Barra da Tijuca;4;4;4;280;10000.0;1000.0;529.0
+945;Casa de Condomínio;Barra da Tijuca;4;3;1;320;10000.0;1500.0;10000.0
+946;Casa de Condomínio;Barra da Tijuca;4;4;4;300;10000.0;700.0;5500.0
+947;Casa de Condomínio;Vargem Grande;3;3;3;531;10000.0;1562.0;400.0
+948;Casa de Condomínio;Barra da Tijuca;5;4;5;600;10000.0;1600.0;0.0
+949;Casa de Condomínio;Barra da Tijuca;5;4;4;320;10000.0;850.0;4000.0
+950;Casa de Condomínio;Barra da Tijuca;5;0;3;600;10000.0;2200.0;15000.0
+951;Casa de Condomínio;Barra da Tijuca;4;2;2;316;10000.0;1100.0;8341.0
+952;Casa de Condomínio;Barra da Tijuca;5;0;5;650;10000.0;2000.0;8000.0
+953;Casa de Condomínio;Barra da Tijuca;5;2;0;358;10000.0;2333.0;9900.0
+954;Casa de Condomínio;Barra da Tijuca;4;4;0;365;10000.0;1207.0;1197.0
+955;Casa de Condomínio;Barra da Tijuca;5;4;3;622;10000.0;1380.0;1486.0
+956;Casa de Condomínio;Barra da Tijuca;5;0;2;600;10000.0;800.0;1000.0
+957;Casa de Condomínio;Recreio dos Bandeirantes;6;4;5;650;10000.0;1134.0;1487.0
+958;Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1380.0;1500.0
+959;Casa de Condomínio;Barra da Tijuca;7;4;5;622;10000.0;1380.0;1486.0
+960;Casa de Condomínio;Recreio dos Bandeirantes;3;0;3;280;10000.0;1200.0;6000.0
+961;Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1390.0;1514.0
+962;Casa de Condomínio;Barra da Tijuca;4;4;3;622;10000.0;1380.0;1486.0
+963;Casa de Condomínio;Barra da Tijuca;4;2;4;240;10000.0;1200.0;600.0
+964;Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1390.0;14000.0
+965;Casa de Condomínio;Joá;4;3;2;300;10000.0;1630.0;650.0
+966;Casa de Condomínio;Barra da Tijuca;4;4;4;622;10000.0;1380.0;1486.0
+967;Casa de Condomínio;Taquara;3;0;1;800;10000.0;150.0;2400.0
+968;Casa de Condomínio;Barra da Tijuca;5;4;3;622;10000.0;1390.0;1486.0
+969;Casa de Condomínio;Barra da Tijuca;4;1;4;350;10000.0;1300.0;940.0
+970;Casa de Condomínio;Barra da Tijuca;6;2;2;600;10000.0;1850.0;1040.0
+971;Casa;Tijuca;7;4;0;400;10000.0;0.0;283.0
+972;Casa de Condomínio;Barra da Tijuca;5;4;1;400;10000.0;2334.0;0.0
+973;Casa;Joá;4;2;1;500;10000.0;1600.0;0.0
+974;Casa;Barra da Tijuca;5;2;4;622;10000.0;1129.0;0.0
+975;Casa de Condomínio;Itanhangá;5;3;5;800;10000.0;1500.0;171.0
+976;Casa;Barra da Tijuca;5;4;3;622;10000.0;1134.0;0.0
+977;Casa de Condomínio;Barra da Tijuca;6;0;1;400;10000.0;2333.0;990.0
+978;Casa de Condomínio;Laranjeiras;5;6;1;630;10000.0;1000.0;1200.0
+979;Casa;Lagoa;4;2;3;409;10000.0;0.0;1025.0
+980;Casa de Condomínio;Barra da Tijuca;4;4;2;622;10000.0;1390.0;14860.0
+981;Casa de Condomínio;Itanhangá;4;4;2;543;10000.0;1340.0;1040.0
+982;Casa;Barra da Tijuca;4;4;4;402;10000.0;1500.0;1337.0
+983;Casa;Barra da Tijuca;4;0;4;900;10000.0;1170.0;0.0
+984;Casa;Campo Grande;2;1;0;239;10000.0;0.0;0.0
+985;Casa;Recreio dos Bandeirantes;6;0;4;600;10000.0;0.0;1080.0
+986;Casa;Recreio dos Bandeirantes;4;4;4;571;10000.0;850.0;0.0
+987;Casa;Barra da Tijuca;5;4;3;1008;10000.0;1390.0;148.0
+988;Casa de Condomínio;Barra da Tijuca;4;4;3;260;10000.0;1200.0;1100.0
+989;Casa de Condomínio;Barra da Tijuca;4;16;4;400;10000.0;2100.0;1500.0
+990;Casa de Condomínio;Taquara;5;4;5;400;10000.0;699.0;5000.0
+991;Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;479;10000.0;2700.0;300.0
+992;Casa de Condomínio;Barra da Tijuca;4;0;0;840;10000.0;4500.0;1913.0
+993;Casa de Condomínio;Gávea;5;5;3;705;10000.0;980.0;1490.0
+994;Casa;Joá;5;2;4;595;10000.0;0.0;0.0
+995;Casa;Recreio dos Bandeirantes;4;3;2;510;10000.0;1100.0;760.0
+996;Casa de Condomínio;Barra da Tijuca;4;3;4;300;10000.0;1055.0;5500.0
+997;Casa;Campo Grande;5;2;5;120;10000.0;0.0;0.0
+998;Casa de Condomínio;Barra da Tijuca;4;4;4;800;10000.0;1200.0;1404.0
+999;Casa;Recreio dos Bandeirantes;6;2;6;349;10000.0;0.0;494.0
+1000;Casa;Tijuca;7;2;0;340;10000.0;0.0;1944.0
+1001;Casa;Gávea;5;4;2;690;10000.0;900.0;1100.0
+1002;Casa de Condomínio;São Conrado;5;4;5;500;10000.0;2646.0;1537.0
+1003;Casa;Humaitá;3;2;1;234;10000.0;0.0;305.0
+1004;Casa;Recreio dos Bandeirantes;4;3;4;324;10000.0;675.0;621.0
+1005;Casa;Freguesia (Jacarepaguá);3;2;1;399;10000.0;0.0;0.0
+1006;Casa de Condomínio;Barra da Tijuca;4;5;4;900;10000.0;2500.0;2200.0
+1007;Casa de Condomínio;Barra da Tijuca;6;4;4;662;10000.0;1129.0;1486.0
+1008;Casa;Freguesia (Jacarepaguá);6;10;1;475;10000.0;0.0;0.0
+1009;Casa de Condomínio;Barra da Tijuca;5;6;3;300;10000.0;0.0;0.0
+1010;Casa;Campo Grande;5;4;1;300;10000.0;0.0;0.0
+1011;Casa de Condomínio;Barra da Tijuca;4;3;4;270;10000.0;700.0;650.0
+1012;Casa;Glória;6;2;0;400;10000.0;0.0;370.0
+1013;Casa de Condomínio;Barra da Tijuca;4;5;3;460;10000.0;1470.0;800.0
+1014;Casa de Condomínio;Barra da Tijuca;5;3;3;600;10000.0;2100.0;16070.0
+1015;Casa de Condomínio;Barra da Tijuca;4;2;2;330;10009.0;820.0;0.0
+1016;Casa de Condomínio;Barra da Tijuca;4;6;3;370;10500.0;950.0;0.0
+1017;Casa de Condomínio;Recreio dos Bandeirantes;4;5;4;500;10500.0;1000.0;0.0
+1018;Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;540;10500.0;850.0;1000.0
+1019;Casa;Botafogo;4;0;1;300;10500.0;0.0;40.0
+1020;Casa de Condomínio;Barra da Tijuca;5;10;5;403;10900.0;855.0;968.0
+1021;Casa;Laranjeiras;6;3;1;450;11000.0;0.0;0.0
+1022;Casa de Condomínio;Barra da Tijuca;4;4;3;280;11000.0;1200.0;1100.0
+1023;Casa;Recreio dos Bandeirantes;5;3;4;217;11000.0;1248.0;3242.0
+1024;Casa;Barra da Tijuca;5;2;0;200;11000.0;1300.0;900.0
+1025;Casa de Condomínio;Barra da Tijuca;4;6;4;763;11000.0;800.0;2040.0
+1026;Casa de Condomínio;Barra da Tijuca;4;3;4;270;11000.0;700.0;550.0
+1027;Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;480;11000.0;1000.0;680.0
+1028;Casa;Glória;4;2;2;400;11000.0;0.0;0.0
+1029;Casa de Condomínio;Barra da Tijuca;5;6;4;600;11000.0;1680.0;1700.0
+1030;Casa de Condomínio;Barra da Tijuca;5;4;4;628;11000.0;1700.0;2200.0
+1031;Casa;Humaitá;3;0;1;300;11500.0;0.0;0.0
+1032;Casa de Condomínio;Barra da Tijuca;4;5;4;500;11800.0;1550.0;1501.0
+1033;Casa de Condomínio;Barra da Tijuca;4;4;4;661;11800.0;1550.0;1469.0
+1034;Casa;Barra da Tijuca;5;4;5;420;11991.0;885.0;0.0
+1035;Casa de Condomínio;Barra da Tijuca;5;3;4;350;12000.0;850.0;0.0
+1036;Casa de Condomínio;Barra da Tijuca;5;3;5;338;12000.0;900.0;1000.0
+1037;Casa de Condomínio;Barra da Tijuca;5;5;4;900;12000.0;1500.0;25000.0
+1038;Casa de Condomínio;Barra da Tijuca;4;4;4;763;12000.0;800.0;2041.0
+1039;Casa de Condomínio;Barra da Tijuca;6;4;4;720;12000.0;800.0;0.0
+1040;Casa de Condomínio;Barra da Tijuca;6;3;3;521;12000.0;1800.0;1100.0
+1041;Casa;Vargem Grande;7;10;2;500;12000.0;0.0;20.0
+1042;Casa de Condomínio;Barra da Tijuca;4;2;1;240;12000.0;1605.0;525.0
+1043;Casa de Condomínio;Barra da Tijuca;5;4;5;700;12000.0;1820.0;0.0
+1044;Casa de Condomínio;Barra da Tijuca;4;3;4;460;12000.0;1000.0;1200.0
+1045;Casa;Centro;6;0;0;360;12000.0;0.0;120.0
+1046;Casa de Condomínio;Barra da Tijuca;4;0;1;265;12000.0;870.0;5232.0
+1047;Casa de Condomínio;Barra da Tijuca;4;3;3;360;12000.0;1200.0;1200.0
+1048;Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;1000.0
+1049;Casa de Condomínio;Gávea;4;2;2;500;12000.0;579.0;1438.0
+1050;Casa;Recreio dos Bandeirantes;7;0;3;600;12000.0;0.0;6000.0
+1051;Casa;Santa Teresa;3;3;0;360;12000.0;0.0;104.0
+1052;Casa de Condomínio;Recreio dos Bandeirantes;5;4;4;800;12000.0;1000.0;1300.0
+1053;Casa de Condomínio;Barra da Tijuca;5;3;5;291;12000.0;550.0;4950.0
+1054;Casa;Barra da Tijuca;5;3;0;250;12000.0;0.0;550.0
+1055;Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;0.0
+1056;Casa de Condomínio;Barra da Tijuca;5;4;5;450;12000.0;510.0;660.0
+1057;Casa de Condomínio;Barra da Tijuca;5;3;2;350;12000.0;1908.0;1270.0
+1058;Casa de Condomínio;Barra da Tijuca;6;5;6;750;12000.0;1300.0;1300.0
+1059;Casa;Gávea;3;2;3;200;12000.0;0.0;400.0
+1060;Casa;Recreio dos Bandeirantes;3;4;3;360;12000.0;0.0;6072.0
+1061;Casa de Condomínio;Itanhangá;5;2;2;450;12000.0;1350.0;850.0
+1062;Casa de Condomínio;Barra da Tijuca;6;0;6;750;12000.0;1980.0;1200.0
+1063;Casa de Condomínio;Barra da Tijuca;6;4;4;1042;12000.0;1640.0;2082.0
+1064;Casa;Campo Grande;3;1;2;200;12000.0;0.0;0.0
+1065;Casa;Barra da Tijuca;4;3;4;350;12000.0;1300.0;620.0
+1066;Casa de Condomínio;Barra da Tijuca;4;0;2;288;12000.0;510.0;4910.0
+1067;Casa de Condomínio;Recreio dos Bandeirantes;5;0;4;450;12000.0;1420.0;12524.0
+1068;Casa de Condomínio;Itanhangá;4;4;4;680;12000.0;1688.0;0.0
+1069;Casa de Condomínio;Barra da Tijuca;5;0;4;100;12000.0;1807.0;2136.0
+1070;Casa de Condomínio;Barra da Tijuca;5;4;5;800;12000.0;1100.0;0.0
+1071;Casa;Botafogo;7;1;3;250;12000.0;0.0;0.0
+1072;Casa de Condomínio;Jardim Botânico;4;4;1;380;12000.0;870.0;1290.0
+1073;Casa;Recreio dos Bandeirantes;4;5;3;600;12000.0;0.0;600.0
+1074;Casa de Condomínio;Barra da Tijuca;5;7;4;550;12000.0;1985.0;1300.0
+1075;Casa de Condomínio;Jacarepaguá;4;0;4;400;12000.0;800.0;600.0
+1076;Casa de Condomínio;Itanhangá;4;4;2;600;12000.0;0.0;0.0
+1077;Casa;Itanhangá;5;3;5;400;12000.0;0.0;2200.0
+1078;Casa de Condomínio;Barra da Tijuca;5;0;2;800;12000.0;1400.0;2000.0
+1079;Casa;Campo Grande;4;1;2;400;12000.0;0.0;0.0
+1080;Casa;Barra da Tijuca;6;3;4;599;12000.0;1600.0;1200.0
+1081;Casa;Urca;4;1;1;160;12000.0;0.0;0.0
+1082;Casa;Jardim Botânico;4;4;1;465;12000.0;880.0;1550.0
+1083;Casa;Barra da Tijuca;5;4;0;350;12000.0;1000.0;600.0
+1084;Casa de Condomínio;Barra da Tijuca;6;4;4;824;12000.0;2162.0;0.0
+1085;Casa de Condomínio;São Conrado;4;4;2;500;12000.0;0.0;879.0
+1086;Casa;Barra da Tijuca;5;4;5;600;12000.0;2300.0;0.0
+1087;Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;1000.0
+1088;Casa;Recreio dos Bandeirantes;4;4;2;367;12000.0;0.0;653.0
+1089;Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;1000.0
+1090;Casa;Recreio dos Bandeirantes;4;2;3;360;12000.0;0.0;0.0
+1091;Casa;Urca;3;1;0;225;12000.0;0.0;385.0
+1092;Casa de Condomínio;Itanhangá;3;3;1;350;12000.0;1485.0;250.0
+1093;Casa de Condomínio;Barra da Tijuca;6;6;6;900;12000.0;2000.0;18000.0
+1094;Casa;Botafogo;7;1;3;250;12000.0;0.0;1881.0
+1095;Casa;Barra da Tijuca;5;4;2;421;12000.0;1668.0;1250.0
+1096;Casa de Condomínio;Barra da Tijuca;4;0;4;300;12200.0;1200.0;350.0
+1097;Casa de Condomínio;Barra da Tijuca;4;3;4;337;12500.0;1000.0;1000.0
+1098;Casa de Condomínio;Barra da Tijuca;5;5;2;400;12500.0;1907.0;0.0
+1099;Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;260;12500.0;0.0;0.0
+1100;Casa;Botafogo;4;4;3;335;12500.0;0.0;3857.0
+1101;Casa de Condomínio;Barra da Tijuca;4;5;4;870;12800.0;1920.0;1399.0
+1102;Casa de Condomínio;Barra da Tijuca;4;4;2;746;13000.0;510.0;4910.0
+1103;Casa de Condomínio;Barra da Tijuca;6;3;4;600;13000.0;800.0;1600.0
+1104;Casa;Gávea;4;4;0;450;13000.0;0.0;600.0
+1105;Casa de Condomínio;Barra da Tijuca;6;8;0;924;13000.0;2214.0;1060.0
+1106;Casa de Condomínio;Barra da Tijuca;5;4;2;700;13000.0;2200.0;0.0
+1107;Casa de Condomínio;Barra da Tijuca;5;0;5;1200;13000.0;1600.0;0.0
+1108;Casa de Condomínio;Barra da Tijuca;4;0;4;250;13000.0;600.0;0.0
+1109;Casa de Condomínio;Barra da Tijuca;5;6;5;646;13000.0;1400.0;1643.0
+1110;Casa de Condomínio;Barra da Tijuca;4;3;4;350;13000.0;1210.0;1000.0
+1111;Casa;Urca;6;5;5;1000;13000.0;0.0;0.0
+1112;Casa;Barra da Tijuca;6;1;0;425;13000.0;0.0;580.0
+1113;Casa de Condomínio;Barra da Tijuca;4;2;4;350;13000.0;1500.0;1000.0
+1114;Casa de Condomínio;Barra da Tijuca;5;0;5;622;13000.0;500.0;1220.0
+1115;Casa;Botafogo;4;2;0;221;13000.0;0.0;0.0
+1116;Casa de Condomínio;Barra da Tijuca;4;5;4;500;13000.0;2500.0;2000.0
+1117;Casa;Barra da Tijuca;6;4;4;300;13000.0;800.0;1500.0
+1118;Casa de Condomínio;Gávea;5;3;1;429;13000.0;1000.0;769.0
+1119;Casa de Condomínio;Barra da Tijuca;5;5;5;617;13000.0;1450.0;1641.0
+1120;Casa;Freguesia (Jacarepaguá);4;1;2;416;13000.0;0.0;0.0
+1121;Casa de Condomínio;Barra da Tijuca;4;2;4;285;13000.0;1200.0;14000.0
+1122;Casa de Condomínio;Barra da Tijuca;5;3;5;350;13000.0;710.0;630.0
+1123;Casa de Condomínio;Barra da Tijuca;4;3;4;900;13000.0;1380.0;1833.0
+1124;Casa de Condomínio;Barra da Tijuca;5;4;5;700;13491.0;2400.0;18500.0
+1125;Casa;Humaitá;4;2;0;252;13500.0;0.0;300.0
+1126;Casa;Laranjeiras;4;2;1;336;13500.0;750.0;649.0
+1127;Casa de Condomínio;Barra da Tijuca;6;6;6;1621;13500.0;1250.0;1800.0
+1128;Casa de Condomínio;Barra da Tijuca;5;0;2;487;13500.0;1450.0;993.0
+1129;Casa de Condomínio;Barra da Tijuca;5;6;5;640;13800.0;980.0;1800.0
+1130;Casa de Condomínio;Barra da Tijuca;5;4;5;765;13900.0;2500.0;3000.0
+1131;Casa de Condomínio;Barra da Tijuca;5;2;3;700;14000.0;1500.0;1100.0
+1132;Casa de Condomínio;Barra da Tijuca;5;2;2;400;14000.0;2500.0;0.0
+1133;Casa de Condomínio;Barra da Tijuca;5;6;5;755;14000.0;2200.0;2000.0
+1134;Casa de Condomínio;Barra da Tijuca;4;4;4;300;14000.0;1200.0;350.0
+1135;Casa;Gávea;4;2;1;680;14000.0;578.0;0.0
+1136;Casa de Condomínio;Barra da Tijuca;4;4;4;305;14000.0;960.0;0.0
+1137;Casa;Gávea;4;4;0;450;14000.0;0.0;7200.0
+1138;Casa;Barra da Tijuca;5;2;5;600;14000.0;790.0;5400.0
+1139;Casa de Condomínio;Barra da Tijuca;4;3;4;298;14000.0;1490.0;505.0
+1140;Casa de Condomínio;Barra da Tijuca;5;5;3;450;14000.0;1440.0;1182.0
+1141;Casa;Gávea;4;4;2;450;14000.0;0.0;7200.0
+1142;Casa;Recreio dos Bandeirantes;4;2;4;900;14000.0;1170.0;0.0
+1143;Casa;São Conrado;5;3;3;500;14000.0;0.0;508.0
+1144;Casa de Condomínio;Barra da Tijuca;5;6;4;600;14500.0;1680.0;1980.0
+1145;Casa de Condomínio;Gávea;5;3;1;600;14500.0;570.0;980.0
+1146;Casa;Gávea;4;4;0;450;14900.0;0.0;500.0
+1147;Casa de Condomínio;Barra da Tijuca;4;5;3;650;14990.0;1750.0;850.0
+1148;Casa de Condomínio;Barra da Tijuca;4;2;4;351;15000.0;1900.0;11587.0
+1149;Casa de Condomínio;Barra da Tijuca;4;5;3;650;15000.0;1750.0;0.0
+1150;Casa de Condomínio;Joá;5;2;2;500;15000.0;1630.0;1300.0
+1151;Casa de Condomínio;Barra da Tijuca;5;2;5;360;15000.0;700.0;905.0
+1152;Casa de Condomínio;Leblon;4;4;4;732;15000.0;3473.0;0.0
+1153;Casa de Condomínio;Barra da Tijuca;4;3;4;512;15000.0;1967.0;1400.0
+1154;Casa de Condomínio;Barra da Tijuca;6;6;5;850;15000.0;2300.0;2200.0
+1155;Casa de Condomínio;Barra da Tijuca;6;4;4;1000;15000.0;2600.0;0.0
+1156;Casa de Condomínio;Barra da Tijuca;4;4;4;900;15000.0;1170.0;2100.0
+1157;Casa de Condomínio;Itanhangá;5;4;5;800;15000.0;1700.0;1300.0
+1158;Casa de Condomínio;Barra da Tijuca;5;6;2;703;15000.0;0.0;0.0
+1159;Casa de Condomínio;Barra da Tijuca;4;7;4;560;15000.0;2300.0;1709.0
+1160;Casa de Condomínio;Barra da Tijuca;5;5;5;580;15000.0;820.0;10674.0
+1161;Casa de Condomínio;Barra da Tijuca;5;0;3;600;15000.0;2200.0;1400.0
+1162;Casa de Condomínio;Barra da Tijuca;4;4;2;700;15000.0;1600.0;0.0
+1163;Casa de Condomínio;Barra da Tijuca;6;3;4;1050;15000.0;2650.0;9000.0
+1164;Casa de Condomínio;Barra da Tijuca;4;4;3;650;15000.0;1750.0;850.0
+1165;Casa de Condomínio;Barra da Tijuca;5;6;4;1000;15000.0;2500.0;0.0
+1166;Casa de Condomínio;Barra da Tijuca;11;4;4;937;15000.0;2300.0;14014.0
+1167;Casa de Condomínio;Barra da Tijuca;7;10;5;773;15000.0;2900.0;2000.0
+1168;Casa de Condomínio;Barra da Tijuca;4;4;0;800;15000.0;2000.0;0.0
+1169;Casa de Condomínio;Barra da Tijuca;4;2;4;900;15000.0;1380.0;22000.0
+1170;Casa de Condomínio;Catete;5;0;2;250;15000.0;0.0;0.0
+1171;Casa de Condomínio;Recreio dos Bandeirantes;4;10;3;480;15000.0;590.0;0.0
+1172;Casa de Condomínio;Itanhangá;5;5;5;500;15000.0;1800.0;650.0
+1173;Casa de Condomínio;Barra da Tijuca;6;4;4;743;15000.0;800.0;1427.0
+1174;Casa de Condomínio;Joá;6;3;5;690;15000.0;1500.0;1250.0
+1175;Casa de Condomínio;Itanhangá;4;3;4;500;15000.0;1572.0;600.0
+1176;Casa de Condomínio;Itanhangá;5;3;3;500;15000.0;1400.0;800.0
+1177;Casa de Condomínio;São Conrado;3;4;3;523;15000.0;3968.0;1013.0
+1178;Casa de Condomínio;Barra da Tijuca;5;0;5;900;15000.0;2000.0;1800.0
+1179;Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;360;15000.0;0.0;672.0
+1180;Casa de Condomínio;Barra da Tijuca;5;3;4;450;15000.0;1711.0;2332.0
+1181;Casa;Leblon;4;4;4;669;15000.0;3400.0;2930.0
+1182;Casa;Cosme Velho;4;4;1;800;15000.0;1300.0;1100.0
+1183;Casa de Condomínio;Leblon;4;3;4;600;15000.0;3250.0;2300.0
+1184;Casa;Recreio dos Bandeirantes;4;2;3;600;15000.0;0.0;6072.0
+1185;Casa de Condomínio;Barra da Tijuca;4;3;4;600;15000.0;2200.0;1000.0
+1186;Casa de Condomínio;Barra da Tijuca;5;6;5;1050;15000.0;2000.0;2000.0
+1187;Casa;Joá;4;3;3;520;15000.0;2800.0;800.0
+1188;Casa de Condomínio;Barra da Tijuca;4;4;4;315;15000.0;1200.0;850.0
+1189;Casa;Recreio dos Bandeirantes;3;3;1;300;15000.0;1608.0;312.0
+1190;Casa;Catete;10;0;10;200;15000.0;0.0;200.0
+1191;Casa de Condomínio;Barra da Tijuca;3;0;3;680;15000.0;1150.0;800.0
+1192;Casa;Itanhangá;5;4;5;1200;15000.0;1600.0;0.0
+1193;Casa;Botafogo;8;3;0;418;15000.0;0.0;0.0
+1194;Casa;Jardim Botânico;6;2;1;385;15000.0;1000.0;990.0
+1195;Casa;Recreio dos Bandeirantes;4;5;3;360;15000.0;0.0;5624.0
+1196;Casa;Jacarepaguá;8;20;7;2000;15000.0;0.0;0.0
+1197;Casa de Condomínio;Barra da Tijuca;4;2;4;800;15000.0;2000.0;0.0
+1198;Casa de Condomínio;Leblon;4;4;4;653;15000.0;3473.0;0.0
+1199;Casa;Barra da Tijuca;5;3;3;500;15000.0;1200.0;0.0
+1200;Casa de Condomínio;Cosme Velho;4;3;1;379;15000.0;1100.0;536.0
+1201;Casa de Condomínio;Barra da Tijuca;4;3;4;600;15000.0;2200.0;1000.0
+1202;Casa;Jardim Botânico;4;1;2;500;15000.0;0.0;450.0
+1203;Casa;Catete;5;3;1;300;15000.0;0.0;0.0
+1204;Casa;Barra da Tijuca;4;3;4;300;15000.0;1100.0;1070.0
+1205;Casa;Gávea;0;0;0;160;15000.0;0.0;426.0
+1206;Casa;Jardim Botânico;5;2;2;276;15000.0;0.0;525.0
+1207;Casa;Gávea;3;6;2;363;15000.0;0.0;704.0
+1208;Casa;Recreio dos Bandeirantes;4;5;3;386;15000.0;0.0;610.0
+1209;Casa;Catete;10;0;10;300;15000.0;0.0;220.0
+1210;Casa de Condomínio;Itanhangá;5;0;5;950;15000.0;1950.0;2500.0
+1211;Casa de Condomínio;Barra da Tijuca;4;3;4;1100;15000.0;2000.0;0.0
+1212;Casa de Condomínio;Barra da Tijuca;6;3;4;400;15000.0;1759.0;0.0
+1213;Casa;Recreio dos Bandeirantes;4;2;3;600;15000.0;0.0;600.0
+1214;Casa;Jardim Botânico;4;1;2;500;15000.0;0.0;500.0
+1215;Casa;Recreio dos Bandeirantes;5;4;3;360;15000.0;0.0;607.0
+1216;Casa;Alto da Boa Vista;9;8;4;870;15000.0;770.0;480.0
+1217;Casa de Condomínio;Barra da Tijuca;8;4;4;986;15000.0;1543.0;2082.0
+1218;Casa de Condomínio;Barra da Tijuca;4;4;4;700;15000.0;2400.0;18000.0
+1219;Casa;Barra da Tijuca;4;4;4;500;15000.0;974.0;0.0
+1220;Casa;Jardim Botânico;4;2;2;380;15000.0;0.0;6700.0
+1221;Casa;Cosme Velho;6;4;1;641;15000.0;900.0;1000.0
+1222;Casa de Condomínio;Barra da Tijuca;5;3;3;1750;15000.0;2900.0;1798.0
+1223;Casa;Cosme Velho;4;3;1;379;15000.0;1200.0;0.0
+1224;Casa de Condomínio;Recreio dos Bandeirantes;7;6;6;800;16000.0;1200.0;13000.0
+1225;Casa;Urca;5;3;3;350;16000.0;0.0;500.0
+1226;Casa de Condomínio;Gávea;6;3;6;1500;16000.0;2000.0;5500.0
+1227;Casa;Barra da Tijuca;4;3;4;700;16000.0;2140.0;1700.0
+1228;Casa de Condomínio;Barra da Tijuca;4;4;4;400;16000.0;1300.0;590.0
+1229;Casa de Condomínio;Barra da Tijuca;5;4;5;700;16000.0;2150.0;17000.0
+1230;Casa de Condomínio;Itanhangá;5;3;5;700;16000.0;1600.0;150.0
+1231;Casa;Freguesia (Jacarepaguá);4;3;4;400;16000.0;0.0;2200.0
+1232;Casa de Condomínio;Barra da Tijuca;4;7;4;650;16000.0;1750.0;850.0
+1233;Casa de Condomínio;Barra da Tijuca;5;9;4;679;16000.0;3049.0;2743.0
+1234;Casa;Urca;5;4;3;350;16000.0;0.0;500.0
+1235;Casa;Gávea;4;2;3;250;16000.0;0.0;400.0
+1236;Casa de Condomínio;Barra da Tijuca;6;6;6;964;16000.0;1200.0;2398.0
+1237;Casa;Botafogo;7;0;4;275;16000.0;0.0;622.0
+1238;Casa de Condomínio;Barra da Tijuca;3;5;3;1030;16000.0;2150.0;2000.0
+1239;Casa de Condomínio;Barra da Tijuca;4;3;4;423;16000.0;2150.0;1500.0
+1240;Casa de Condomínio;Barra da Tijuca;5;3;5;560;16000.0;1500.0;1940.0
+1241;Casa de Condomínio;Barra da Tijuca;6;5;4;600;16000.0;900.0;8000.0
+1242;Casa de Condomínio;Barra da Tijuca;3;4;3;700;16000.0;2150.0;17000.0
+1243;Casa de Condomínio;Barra da Tijuca;4;9;4;680;16000.0;3118.0;2743.0
+1244;Casa de Condomínio;Barra da Tijuca;4;2;4;550;16000.0;2100.0;2000.0
+1245;Casa de Condomínio;Barra da Tijuca;5;4;5;700;16000.0;2150.0;17000.0
+1246;Casa de Condomínio;Barra da Tijuca;3;4;3;600;16000.0;2200.0;1200.0
+1247;Casa;Vila Valqueire;5;20;0;460;16000.0;0.0;0.0
+1248;Casa;Barra da Tijuca;5;2;5;320;16000.0;1000.0;800.0
+1249;Casa de Condomínio;Barra da Tijuca;4;4;4;610;16500.0;1000.0;16964.0
+1250;Casa de Condomínio;Barra da Tijuca;6;0;4;800;17000.0;2695.0;2220.0
+1251;Casa de Condomínio;Barra da Tijuca;4;3;3;600;17000.0;1400.0;1000.0
+1252;Casa de Condomínio;Itanhangá;6;9;6;1280;17000.0;1500.0;14000.0
+1253;Casa de Condomínio;Barra da Tijuca;4;6;4;900;17000.0;1200.0;22000.0
+1254;Casa de Condomínio;Itanhangá;4;4;2;700;17000.0;1600.0;1435.0
+1255;Casa de Condomínio;Barra da Tijuca;4;4;4;600;17000.0;1800.0;2200.0
+1256;Casa;Urca;5;1;3;320;17000.0;0.0;396.0
+1257;Casa de Condomínio;Barra da Tijuca;4;4;4;680;17000.0;2000.0;18000.0
+1258;Casa de Condomínio;Barra da Tijuca;4;2;4;585;17000.0;1748.0;1210.0
+1259;Casa de Condomínio;Barra da Tijuca;4;6;4;900;17000.0;1200.0;22000.0
+1260;Casa;Barra da Tijuca;5;4;5;890;17000.0;2500.0;2500.0
+1261;Casa;Vargem Pequena;8;4;6;380;17000.0;0.0;0.0
+1262;Casa;Barra da Tijuca;5;0;5;580;17000.0;1800.0;0.0
+1263;Casa de Condomínio;Barra da Tijuca;5;4;5;890;17000.0;2700.0;2000.0
+1264;Casa de Condomínio;Barra da Tijuca;5;4;5;300;17000.0;750.0;7500.0
+1265;Casa de Condomínio;Barra da Tijuca;4;4;4;800;17000.0;2695.0;0.0
+1266;Casa de Condomínio;Barra da Tijuca;5;5;5;900;17500.0;2600.0;0.0
+1267;Casa de Condomínio;Barra da Tijuca;4;3;4;585;17500.0;1850.0;1200.0
+1268;Casa;Barra da Tijuca;6;0;5;800;18000.0;825.0;1786.0
+1269;Casa de Condomínio;Barra da Tijuca;5;4;5;788;18000.0;2200.0;20000.0
+1270;Casa de Condomínio;Barra da Tijuca;5;6;5;700;18000.0;1900.0;1850.0
+1271;Casa de Condomínio;Barra da Tijuca;6;6;5;800;18000.0;1000.0;13000.0
+1272;Casa de Condomínio;Barra da Tijuca;5;6;5;800;18000.0;1600.0;2400.0
+1273;Casa;Barra da Tijuca;5;8;5;640;18000.0;950.0;18000.0
+1274;Casa;Botafogo;12;5;0;500;18000.0;0.0;1800.0
+1275;Casa;Lagoa;6;1;0;750;18000.0;0.0;1200.0
+1276;Casa;Gávea;4;4;3;506;18000.0;1300.0;14000.0
+1277;Casa;Barra da Tijuca;5;3;5;615;18000.0;2300.0;0.0
+1278;Casa de Condomínio;Barra da Tijuca;5;5;5;606;18000.0;1850.0;1480.0
+1279;Casa de Condomínio;São Conrado;5;4;3;670;18000.0;1550.0;3200.0
+1280;Casa de Condomínio;Barra da Tijuca;6;2;1;500;18000.0;2333.0;12000.0
+1281;Casa;Barra da Tijuca;5;6;4;788;18000.0;2214.0;2181.0
+1282;Casa de Condomínio;Barra da Tijuca;3;6;3;608;18000.0;1910.0;1411.0
+1283;Casa;Gávea;3;1;3;450;18000.0;0.0;1000.0
+1284;Casa;Gávea;4;3;3;560;18000.0;1300.0;0.0
+1285;Casa de Condomínio;Barra da Tijuca;4;6;3;681;18000.0;1907.0;1941.0
+1286;Casa;Gávea;4;0;3;500;18000.0;1500.0;1100.0
+1287;Casa;Barra da Tijuca;4;4;4;550;18000.0;1550.0;1860.0
+1288;Casa de Condomínio;Barra da Tijuca;4;3;4;600;18000.0;1100.0;300.0
+1289;Casa;Lagoa;6;2;0;750;18000.0;0.0;1800.0
+1290;Casa de Condomínio;Barra da Tijuca;6;4;5;788;18000.0;2200.0;20000.0
+1291;Casa;Urca;6;2;2;260;18000.0;0.0;0.0
+1292;Casa de Condomínio;Barra da Tijuca;5;3;5;788;18000.0;2000.0;2100.0
+1293;Casa;Jardim Botânico;4;3;0;531;18000.0;0.0;702.0
+1294;Casa de Condomínio;Barra da Tijuca;4;8;4;751;18000.0;2334.0;2404.0
+1295;Casa de Condomínio;Botafogo;5;0;0;600;18000.0;0.0;2300.0
+1296;Casa de Condomínio;Barra da Tijuca;4;8;4;700;18000.0;1700.0;2700.0
+1297;Casa de Condomínio;Barra da Tijuca;8;7;5;1000;18000.0;2150.0;2500.0
+1298;Casa de Condomínio;Barra da Tijuca;5;7;5;780;18000.0;2081.0;1540.0
+1299;Casa de Condomínio;Botafogo;1;4;0;400;18000.0;0.0;0.0
+1300;Casa de Condomínio;Barra da Tijuca;5;7;5;780;18000.0;2081.0;1540.0
+1301;Casa de Condomínio;Barra da Tijuca;4;6;3;681;18000.0;1907.0;1941.0
+1302;Casa de Condomínio;Barra da Tijuca;5;4;5;631;18000.0;980.0;1800.0
+1303;Casa de Condomínio;Leblon;6;2;2;350;18000.0;3400.0;1351.0
+1304;Casa de Condomínio;Recreio dos Bandeirantes;5;0;3;500;18000.0;800.0;0.0
+1305;Casa de Condomínio;Barra da Tijuca;4;4;4;850;18009.0;1560.0;0.0
+1306;Casa;Tijuca;6;4;2;550;18500.0;0.0;0.0
+1307;Casa;Jardim Botânico;4;3;3;500;18500.0;0.0;993.0
+1308;Casa;Urca;5;2;2;350;19000.0;0.0;0.0
+1309;Casa;Lagoa;6;2;3;700;19000.0;0.0;0.0
+1310;Casa;Tijuca;4;5;0;274;19000.0;0.0;0.0
+1311;Casa;Urca;4;0;4;491;19900.0;0.0;6000.0
+1312;Casa de Condomínio;Barra da Tijuca;5;2;5;600;19900.0;1891.0;160.0
+1313;Casa de Condomínio;Barra da Tijuca;3;5;3;681;19991.0;1907.0;13950.0
+1314;Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;1749.0
+1315;Casa de Condomínio;Itanhangá;4;4;4;600;20000.0;1800.0;0.0
+1316;Casa de Condomínio;Barra da Tijuca;5;4;5;680;20000.0;2000.0;0.0
+1317;Casa;Laranjeiras;6;2;6;333;20000.0;0.0;697.0
+1318;Casa de Condomínio;Barra da Tijuca;5;8;5;900;20000.0;2200.0;1177.0
+1319;Casa de Condomínio;Barra da Tijuca;4;5;4;900;20000.0;1500.0;0.0
+1320;Casa;Jardim Botânico;4;4;4;450;20000.0;0.0;0.0
+1321;Casa de Condomínio;Barra da Tijuca;5;7;5;750;20000.0;2500.0;10000.0
+1322;Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0
+1323;Casa de Condomínio;Barra da Tijuca;5;3;5;900;20000.0;1308.0;1601.0
+1324;Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0
+1325;Casa de Condomínio;Barra da Tijuca;4;4;4;700;20000.0;0.0;0.0
+1326;Casa;Jardim Botânico;4;3;4;300;20000.0;0.0;1254.0
+1327;Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;0.0
+1328;Casa;Barra da Tijuca;6;6;6;610;20000.0;0.0;400.0
+1329;Casa de Condomínio;Itanhangá;3;2;3;544;20000.0;1800.0;1600.0
+1330;Casa de Condomínio;Barra da Tijuca;6;4;6;556;20000.0;1650.0;1620.0
+1331;Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;0.0
+1332;Casa de Condomínio;Glória;4;3;2;600;20000.0;0.0;979.0
+1333;Casa de Condomínio;Barra da Tijuca;5;4;4;474;20000.0;973.0;17300.0
+1334;Casa de Condomínio;Barra da Tijuca;5;4;5;900;20000.0;1310.0;17000.0
+1335;Casa;Gávea;6;5;3;650;20000.0;0.0;19230.0
+1336;Casa;Lagoa;5;2;1;400;20000.0;180.0;576.0
+1337;Casa de Condomínio;Itanhangá;4;8;4;1800;20000.0;0.0;0.0
+1338;Casa;Jardim Botânico;5;2;5;500;20000.0;0.0;1912.0
+1339;Casa de Condomínio;Barra da Tijuca;5;2;5;554;20000.0;1892.0;1743.0
+1340;Casa de Condomínio;Barra da Tijuca;3;5;3;1000;20000.0;3000.0;0.0
+1341;Casa de Condomínio;Barra da Tijuca;6;5;6;615;20000.0;2000.0;1000.0
+1342;Casa de Condomínio;Barra da Tijuca;5;3;5;900;20000.0;1300.0;1600.0
+1343;Casa de Condomínio;Barra da Tijuca;5;6;5;680;20000.0;2870.0;1200.0
+1344;Casa de Condomínio;Barra da Tijuca;5;0;5;850;20000.0;2150.0;2600.0
+1345;Casa;Freguesia (Jacarepaguá);5;0;5;1000;20000.0;0.0;0.0
+1346;Casa de Condomínio;Barra da Tijuca;4;6;4;950;20000.0;2650.0;0.0
+1347;Casa;Barra da Tijuca;6;4;4;480;20000.0;1100.0;0.0
+1348;Casa;Humaitá;3;3;3;493;20000.0;3700.0;1515.0
+1349;Casa de Condomínio;Barra da Tijuca;4;5;3;650;20000.0;1750.0;8724.0
+1350;Casa de Condomínio;Itanhangá;4;4;4;600;20000.0;1800.0;16000.0
+1351;Casa;Paquetá;10;0;10;976;20000.0;0.0;0.0
+1352;Casa de Condomínio;Barra da Tijuca;5;0;5;900;20000.0;1324.0;16000.0
+1353;Casa de Condomínio;Barra da Tijuca;5;4;5;564;20000.0;1918.0;1743.0
+1354;Casa;Jardim Botânico;4;4;3;450;20000.0;0.0;1750.0
+1355;Casa;Jardim Botânico;4;3;4;406;20000.0;0.0;1912.0
+1356;Casa de Condomínio;Barra da Tijuca;4;5;4;530;20000.0;2333.0;17970.0
+1357;Casa de Condomínio;Itanhangá;8;4;5;965;20000.0;2200.0;1600.0
+1358;Casa;São Conrado;4;4;2;490;20000.0;670.0;0.0
+1359;Casa;Jardim Botânico;4;1;4;356;20000.0;0.0;1189.0
+1360;Casa de Condomínio;Urca;5;3;4;346;20000.0;0.0;0.0
+1361;Casa de Condomínio;Barra da Tijuca;4;0;4;590;20000.0;2000.0;0.0
+1362;Casa de Condomínio;Barra da Tijuca;5;4;4;474;20000.0;973.0;17300.0
+1363;Casa de Condomínio;Barra da Tijuca;5;8;5;900;20000.0;2200.0;1500.0
+1364;Casa de Condomínio;Barra da Tijuca;5;10;5;900;20000.0;1300.0;120.0
+1365;Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;0.0
+1366;Casa de Condomínio;Barra da Tijuca;5;3;5;550;20000.0;1308.0;1601.0
+1367;Casa;Jardim Botânico;4;4;4;451;20000.0;0.0;0.0
+1368;Casa;Jardim Botânico;4;3;4;451;20000.0;0.0;1750.0
+1369;Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;1749.0
+1370;Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0
+1371;Casa de Condomínio;Barra da Tijuca;5;2;5;679;20000.0;1800.0;1687.0
+1372;Casa de Condomínio;Barra da Tijuca;5;3;5;1000;20000.0;1800.0;1800.0
+1373;Casa;Jardim Botânico;4;3;4;500;20000.0;0.0;1800.0
+1374;Casa de Condomínio;Barra da Tijuca;5;10;4;1000;20000.0;5000.0;2000.0
+1375;Casa de Condomínio;Barra da Tijuca;5;3;0;900;20000.0;1308.0;1601.0
+1376;Casa de Condomínio;Barra da Tijuca;5;6;5;900;20000.0;3300.0;11000.0
+1377;Casa de Condomínio;Barra da Tijuca;6;3;6;1100;20000.0;2300.0;2400.0
+1378;Casa;Barra da Tijuca;5;10;5;600;20000.0;2000.0;0.0
+1379;Casa de Condomínio;Barra da Tijuca;5;4;5;805;20000.0;1700.0;14000.0
+1380;Casa;Jardim Botânico;5;4;5;1400;20000.0;0.0;1912.0
+1381;Casa de Condomínio;Barra da Tijuca;3;5;3;681;20000.0;1907.0;18098.0
+1382;Casa;Barra da Tijuca;5;6;0;400;20000.0;0.0;590.0
+1383;Casa de Condomínio;Barra da Tijuca;7;5;6;850;20000.0;2340.0;15000.0
+1384;Casa de Condomínio;Barra da Tijuca;5;0;3;270;20000.0;1150.0;650.0
+1385;Casa de Condomínio;Barra da Tijuca;5;6;5;772;20000.0;1400.0;0.0
+1386;Casa de Condomínio;Barra da Tijuca;5;5;5;566;20000.0;1308.0;0.0
+1387;Casa;Barra da Tijuca;5;3;5;776;20000.0;2130.0;20000.0
+1388;Casa de Condomínio;Itanhangá;5;4;5;865;20000.0;1900.0;1990.0
+1389;Casa;Urca;4;1;2;320;20000.0;0.0;423.0
+1390;Casa de Condomínio;Barra da Tijuca;4;7;4;496;20000.0;1500.0;1306.0
+1391;Casa de Condomínio;Barra da Tijuca;6;2;6;556;20000.0;1050.0;0.0
+1392;Casa de Condomínio;Barra da Tijuca;6;6;6;640;20000.0;1600.0;0.0
+1393;Casa de Condomínio;Barra da Tijuca;5;5;3;681;20000.0;1900.0;18000.0
+1394;Casa de Condomínio;Barra da Tijuca;5;5;5;600;20000.0;2300.0;0.0
+1395;Casa;Vargem Grande;6;0;6;1000;20000.0;0.0;715.0
+1396;Casa;Urca;5;2;4;320;21000.0;0.0;0.0
+1397;Casa de Condomínio;Barra da Tijuca;5;4;5;900;21000.0;1300.0;1600.0
+1398;Casa;Urca;4;2;4;330;21000.0;0.0;4200.0
+1399;Casa de Condomínio;Joá;6;35;4;1100;22000.0;0.0;0.0
+1400;Casa de Condomínio;Barra da Tijuca;4;3;4;980;22000.0;1400.0;800.0
+1401;Casa de Condomínio;Humaitá;3;3;3;500;22000.0;3780.0;1550.0
+1402;Casa;Barra da Tijuca;6;3;4;273;22000.0;2300.0;25000.0
+1403;Casa;São Conrado;4;5;3;3000;22000.0;2700.0;1700.0
+1404;Casa;Botafogo;4;5;0;600;22000.0;0.0;3142.0
+1405;Casa de Condomínio;Barra da Tijuca;5;3;5;600;22000.0;1028.0;18558.0
+1406;Casa de Condomínio;Barra da Tijuca;5;0;5;577;22000.0;1680.0;14735.0
+1407;Casa de Condomínio;Barra da Tijuca;6;5;0;906;22000.0;2900.0;2519.0
+1408;Casa;Barra da Tijuca;5;5;4;925;22000.0;3129.0;47.0
+1409;Casa de Condomínio;Barra da Tijuca;5;4;5;750;22000.0;0.0;0.0
+1410;Casa;Glória;4;3;2;851;22000.0;0.0;980.0
+1411;Casa de Condomínio;Barra da Tijuca;4;4;4;2070;22000.0;1000.0;32300.0
+1412;Casa de Condomínio;Barra da Tijuca;5;0;0;800;22000.0;2400.0;1400.0
+1413;Casa de Condomínio;Barra da Tijuca;4;3;4;869;23000.0;2215.0;2380.0
+1414;Casa de Condomínio;São Conrado;5;4;5;1100;23000.0;2450.0;0.0
+1415;Casa de Condomínio;Gávea;6;4;6;800;23000.0;900.0;1776.0
+1416;Casa de Condomínio;Barra da Tijuca;4;4;4;760;23009.0;2080.0;0.0
+1417;Casa de Condomínio;Recreio dos Bandeirantes;5;8;3;1000;23900.0;1320.0;1061.0
+1418;Casa de Condomínio;Barra da Tijuca;4;4;4;806;24000.0;2081.0;2300.0
+1419;Casa de Condomínio;Barra da Tijuca;4;4;4;869;24000.0;2220.0;2269.0
+1420;Casa de Condomínio;Barra da Tijuca;4;4;4;1000;24000.0;2214.0;1980.0
+1421;Casa de Condomínio;Itanhangá;6;0;5;636;24000.0;1900.0;1900.0
+1422;Casa de Condomínio;Barra da Tijuca;4;4;4;869;24000.0;2214.0;2376.0
+1423;Casa de Condomínio;Itanhangá;6;3;5;636;24000.0;1900.0;1900.0
+1424;Casa de Condomínio;Barra da Tijuca;4;0;4;869;24000.0;2214.0;2376.0
+1425;Casa de Condomínio;Barra da Tijuca;6;6;6;1000;24009.0;0.0;0.0
+1426;Casa de Condomínio;São Conrado;4;4;4;1200;24500.0;1600.0;3498.0
+1427;Casa de Condomínio;Barra da Tijuca;3;6;3;600;25000.0;0.0;0.0
+1428;Casa de Condomínio;Joá;6;4;6;550;25000.0;0.0;672.0
+1429;Casa de Condomínio;Barra da Tijuca;6;5;6;1100;25000.0;0.0;0.0
+1430;Casa de Condomínio;Barra da Tijuca;5;6;5;1100;25000.0;2000.0;25000.0
+1431;Casa de Condomínio;Barra da Tijuca;4;10;0;771;25000.0;1550.0;147.0
+1432;Casa de Condomínio;Barra da Tijuca;5;2;5;700;25000.0;0.0;1800.0
+1433;Casa de Condomínio;Barra da Tijuca;5;4;5;600;25000.0;0.0;0.0
+1434;Casa de Condomínio;Barra da Tijuca;5;3;5;900;25000.0;1415.0;1216.0
+1435;Casa de Condomínio;Barra da Tijuca;4;3;4;550;25000.0;1967.0;1330.0
+1436;Casa de Condomínio;Barra da Tijuca;6;4;6;700;25000.0;1600.0;1200.0
+1437;Casa de Condomínio;Barra da Tijuca;6;6;6;1200;25000.0;1650.0;2900.0
+1438;Casa de Condomínio;Barra da Tijuca;4;4;4;674;25000.0;2100.0;2000.0
+1439;Casa de Condomínio;Barra da Tijuca;7;10;7;1400;25000.0;2000.0;0.0
+1440;Casa de Condomínio;Barra da Tijuca;5;2;5;758;25000.0;1510.0;20500.0
+1441;Casa de Condomínio;Barra da Tijuca;5;3;5;700;25000.0;0.0;0.0
+1442;Casa de Condomínio;Barra da Tijuca;5;3;5;775;25000.0;2134.0;20987.0
+1443;Casa de Condomínio;Barra da Tijuca;4;0;4;1000;25000.0;2500.0;25000.0
+1444;Casa de Condomínio;Itanhangá;5;8;5;2200;25000.0;1300.0;345.0
+1445;Casa de Condomínio;Barra da Tijuca;6;6;6;1100;25000.0;2695.0;3000.0
+1446;Casa de Condomínio;Barra da Tijuca;4;6;4;500;25000.0;1586.0;1298.0
+1447;Casa de Condomínio;Barra da Tijuca;5;4;5;700;25000.0;2000.0;1000.0
+1448;Casa de Condomínio;Barra da Tijuca;5;10;5;1600;25000.0;1600.0;0.0
+1449;Casa de Condomínio;Barra da Tijuca;7;6;6;850;25000.0;2200.0;25000.0
+1450;Casa de Condomínio;Barra da Tijuca;5;3;5;775;25000.0;1750.0;21400.0
+1451;Casa de Condomínio;Barra da Tijuca;5;0;5;1000;25000.0;1300.0;1600.0
+1452;Casa de Condomínio;Barra da Tijuca;5;4;5;790;25000.0;1350.0;3400.0
+1453;Casa de Condomínio;Barra da Tijuca;5;4;5;730;25000.0;1350.0;1200.0
+1454;Casa de Condomínio;Barra da Tijuca;5;5;5;850;25000.0;2134.0;0.0
+1455;Casa de Condomínio;Leblon;4;2;4;400;25000.0;3500.0;20000.0
+1456;Casa de Condomínio;Gávea;6;10;6;1500;25000.0;8300.0;3650.0
+1457;Casa de Condomínio;Barra da Tijuca;5;3;5;820;25000.0;2500.0;1500.0
+1458;Casa de Condomínio;Leblon;4;2;4;500;25000.0;2900.0;1962.0
+1459;Casa de Condomínio;Barra da Tijuca;4;4;4;825;25000.0;2962.0;275.0
+1460;Casa de Condomínio;Barra da Tijuca;4;4;4;1000;25000.0;2450.0;23710.0
+1461;Casa de Condomínio;Barra da Tijuca;4;4;4;900;25000.0;1308.0;1601.0
+1462;Casa de Condomínio;Joá;6;3;5;300;25000.0;0.0;0.0
+1463;Casa de Condomínio;Barra da Tijuca;5;2;5;810;26000.0;1550.0;3256.0
+1464;Casa de Condomínio;Barra da Tijuca;4;0;4;815;27000.0;2700.0;12000.0
+1465;Casa de Condomínio;Barra da Tijuca;5;4;5;674;27000.0;2100.0;19369.0
+1466;Casa de Condomínio;Barra da Tijuca;5;9;4;870;28000.0;1650.0;0.0
+1467;Casa de Condomínio;São Conrado;4;2;3;450;28000.0;1600.0;1400.0
+1468;Casa de Condomínio;Barra da Tijuca;5;0;5;850;28000.0;0.0;0.0
+1469;Casa de Condomínio;São Conrado;4;4;4;640;28000.0;2400.0;1300.0
+1470;Casa de Condomínio;Barra da Tijuca;5;6;5;560;28000.0;2200.0;0.0
+1471;Casa de Condomínio;Barra da Tijuca;4;5;4;1000;28009.0;1600.0;15000.0
+1472;Casa de Condomínio;Barra da Tijuca;4;9;4;943;29000.0;3000.0;2678.0
+1473;Casa de Condomínio;Barra da Tijuca;7;6;6;1350;30000.0;0.0;0.0
+1474;Casa de Condomínio;Joá;5;5;5;600;30000.0;0.0;0.0
+1475;Casa de Condomínio;Leblon;5;0;5;850;30000.0;1500.0;2600.0
+1476;Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;600;30000.0;1100.0;13999.0
+1477;Casa de Condomínio;Barra da Tijuca;5;4;5;750;30000.0;2100.0;18000.0
+1478;Casa de Condomínio;Barra da Tijuca;4;2;2;600;30000.0;1100.0;1399.0
+1479;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1050.0;0.0
+1480;Casa de Condomínio;Barra da Tijuca;4;2;4;675;30000.0;1800.0;1400.0
+1481;Casa de Condomínio;Barra da Tijuca;4;4;2;660;30000.0;1150.0;13990.0
+1482;Casa de Condomínio;Barra da Tijuca;5;5;5;780;30000.0;1700.0;800.0
+1483;Casa de Condomínio;Barra da Tijuca;4;2;4;595;30000.0;2500.0;2510.0
+1484;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1399.0
+1485;Casa de Condomínio;Barra da Tijuca;5;2;5;900;30000.0;1900.0;1400.0
+1486;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;13999.0
+1487;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1300.0
+1488;Casa de Condomínio;Barra da Tijuca;4;2;4;595;30000.0;2500.0;2510.0
+1489;Casa de Condomínio;Leblon;5;0;5;900;30000.0;1500.0;0.0
+1490;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1300.0
+1491;Casa de Condomínio;Barra da Tijuca;6;0;4;700;30000.0;2100.0;700.0
+1492;Casa de Condomínio;Barra da Tijuca;2;4;2;600;30000.0;1100.0;0.0
+1493;Casa de Condomínio;Barra da Tijuca;4;5;4;1000;30000.0;2000.0;2670.0
+1494;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1300.0
+1495;Casa de Condomínio;Barra da Tijuca;6;4;5;1000;30000.0;2700.0;1800.0
+1496;Casa de Condomínio;Barra da Tijuca;5;4;5;1280;30000.0;1300.0;0.0
+1497;Casa de Condomínio;Barra da Tijuca;4;4;2;660;30000.0;1050.0;1300.0
+1498;Casa de Condomínio;Barra da Tijuca;5;5;4;806;30000.0;2695.0;2753.0
+1499;Casa de Condomínio;Leblon;4;2;0;800;30000.0;2000.0;1000.0
+1500;Casa de Condomínio;Barra da Tijuca;7;8;7;1450;30000.0;1500.0;2800.0
+1501;Casa de Condomínio;Barra da Tijuca;7;8;7;913;30000.0;2882.0;0.0
+1502;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1400.0
+1503;Casa de Condomínio;Barra da Tijuca;4;4;4;800;30000.0;2700.0;18300.0
+1504;Casa de Condomínio;Barra da Tijuca;4;4;4;1000;30000.0;2695.0;23715.0
+1505;Casa de Condomínio;Barra da Tijuca;6;0;5;950;30000.0;1200.0;15000.0
+1506;Casa de Condomínio;Barra da Tijuca;4;4;4;700;30000.0;1600.0;1500.0
+1507;Casa de Condomínio;Barra da Tijuca;6;3;6;1000;30000.0;1300.0;1216.0
+1508;Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1050.0;1300.0
+1509;Casa de Condomínio;Barra da Tijuca;5;4;5;850;32000.0;1510.0;15804.0
+1510;Casa de Condomínio;Barra da Tijuca;5;6;4;1000;32000.0;3000.0;1700.0
+1511;Casa de Condomínio;Barra da Tijuca;5;6;5;1200;32000.0;2134.0;17480.0
